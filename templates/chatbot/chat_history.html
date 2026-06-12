@@ -1,0 +1,32 @@
+<h1>
+Chat History
+</h1>
+
+<table border="1">
+
+<tr>
+
+<th>ID</th>
+<th>Patient</th>
+<th>Question</th>
+<th>Response</th>
+
+</tr>
+
+{% for c in chats %}
+
+<tr>
+
+<td>{{c[0]}}</td>
+
+<td>{{c[1]}}</td>
+
+<td>{{c[2]}}</td>
+
+<td>{{c[3]}}</td>
+
+</tr>
+
+{% endfor %}
+
+</table>

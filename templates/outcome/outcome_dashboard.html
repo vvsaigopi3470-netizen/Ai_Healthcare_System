@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Outcome Dashboard</title>
+</head>
+
+<body>
+
+<h1>Outcome Dashboard</h1>
+
+<h2>
+
+Total Predictions:
+{{ total }}
+
+</h2>
+
+<a href="/predict_outcome">
+
+New Prediction
+
+</a>
+
+<br><br>
+
+<a href="/outcome_history">
+
+View History
+
+</a>
+
+</body>
+</html>
+
+{% endblock %}

@@ -1,0 +1,35 @@
+<h1>
+Patient Status Analysis
+</h1>
+
+<h2>
+
+Severity:
+
+{{ severity }}
+
+</h2>
+
+{% if alerts %}
+
+<h3>
+Alerts:
+</h3>
+
+<ul>
+
+{% for a in alerts %}
+
+<li>{{ a }}</li>
+
+{% endfor %}
+
+</ul>
+
+{% else %}
+
+<h3>
+Patient Stable
+</h3>
+
+{% endif %}

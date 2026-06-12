@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>
+Report History
+</h1>
+
+<table class="table-modern">
+
+<tr>
+
+<th>ID</th>
+<th>Patient</th>
+<th>Risk</th>
+<th>Issues</th>
+
+</tr>
+
+{% for r in reports %}
+
+<tr>
+
+<td>{{r[0]}}</td>
+
+<td>{{r[1]}}</td>
+
+<td>{{r[4]}}</td>
+
+<td>{{r[5]}}</td>
+
+</tr>
+
+{% endfor %}
+
+</table>
+
+{% endblock %}

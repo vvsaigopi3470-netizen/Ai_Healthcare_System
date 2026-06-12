@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+
+<h2>Attendance</h2>
+
+<form method="POST">
+
+<input
+type="number"
+name="staff_id"
+placeholder="Staff ID">
+
+<br><br>
+
+<select name="status">
+
+<option>
+Present
+</option>
+
+<option>
+Absent
+</option>
+
+<option>
+Leave
+</option>
+
+</select>
+
+<br><br>
+
+<button>
+
+Submit
+
+</button>
+
+</form>
+
+{% endblock %}

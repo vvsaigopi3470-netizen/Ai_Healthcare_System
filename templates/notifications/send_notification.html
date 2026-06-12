@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>
+Send Notification
+</title>
+</head>
+
+<body>
+
+<h2>
+Send Notification
+</h2>
+
+<form method="POST">
+
+<input
+type="number"
+name="patient_id"
+placeholder="Patient ID">
+
+<br><br>
+
+<input
+type="email"
+name="email"
+placeholder="Email">
+
+<br><br>
+
+<input
+type="text"
+name="title"
+placeholder="Title">
+
+<br><br>
+
+<textarea
+name="message"
+placeholder="Message">
+</textarea>
+
+<br><br>
+
+<button>
+
+Send
+
+</button>
+
+</form>
+
+</body>
+</html>
+
+{% endblock %}

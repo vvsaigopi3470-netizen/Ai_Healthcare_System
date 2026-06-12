@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+</head>
+
+<body>
+
+<h1>
+Hospital Analytics
+</h1>
+
+<div id="chart"></div>
+
+<script>
+
+var data = [
+
+{
+x:["Patients",
+"Doctors",
+"Beds"],
+
+y:[120,20,80],
+
+type:"bar"
+
+}
+
+];
+
+Plotly.newPlot(
+"chart",
+data
+);
+
+</script>
+
+</body>
+</html>
+
+{% endblock %}

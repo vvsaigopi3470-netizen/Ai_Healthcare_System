@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Appointments</title>
+</head>
+
+<body>
+
+<h1>Appointments</h1>
+
+<table class="table-modern">
+
+<tr>
+
+<th>ID</th>
+<th>Patient</th>
+<th>Doctor</th>
+<th>Date</th>
+<th>Time</th>
+<th>Status</th>
+<th>Action</th>
+
+</tr>
+
+{% for a in appointments %}
+
+<tr>
+
+<td>{{a[0]}}</td>
+<td>{{a[1]}}</td>
+<td>{{a[2]}}</td>
+<td>{{a[3]}}</td>
+<td>{{a[4]}}</td>
+<td>{{a[5]}}</td>
+
+<td>
+
+<a href="/approve/{{a[0]}}">
+Approve
+</a>
+
+|
+
+<a href="/reject/{{a[0]}}">
+Reject
+</a>
+
+|
+
+<a href="/reschedule/{{a[0]}}">
+Reschedule
+</a>
+
+</td>
+
+</tr>
+
+{% endfor %}
+
+</table>
+
+</body>
+</html> 
+
+{% endblock %}

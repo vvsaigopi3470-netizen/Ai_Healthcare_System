@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>
+Upload Medical Report
+</title>
+</head>
+
+<body>
+
+<h2>
+Medical Report Analysis
+</h2>
+
+<form
+method="POST"
+enctype="multipart/form-data">
+
+<input
+type="number"
+name="patient_id"
+placeholder="Patient ID">
+
+<br><br>
+
+<input
+type="file"
+name="report">
+
+<br><br>
+
+<button type="submit">
+
+Analyze Report
+
+</button>
+
+</form>
+
+</body>
+</html>
+
+{% endblock %}

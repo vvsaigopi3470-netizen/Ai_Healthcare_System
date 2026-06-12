@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<title>Doctor Profile</title>
+</head>
+
+<body>
+
+<h1>Doctor Profile</h1>
+
+<p>Name: {{ doctor[1] }}</p>
+
+<p>Email: {{ doctor[2] }}</p>
+
+<p>Specialization: {{ doctor[3] }}</p>
+
+<p>Department: {{ doctor[4] }}</p>
+
+<p>Experience: {{ doctor[5] }} Years</p>
+
+<p>Qualification: {{ doctor[6] }}</p>
+
+<p>Phone: {{ doctor[7] }}</p>
+
+<p>Available Slots:
+{{ doctor[8] }}
+</p>
+
+<p>Consultation Fee:
+₹{{ doctor[9] }}
+</p>
+
+</body>
+</html>
+
+{% endblock %}

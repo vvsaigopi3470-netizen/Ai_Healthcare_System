@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Staff Dashboard</h1>
+
+<p>
+Total Staff:
+{{ total }}
+</p>
+
+<a href="/add_staff">
+Add Staff
+</a>
+
+<br><br>
+
+<a href="/assign_shift">
+Assign Shift
+</a>
+
+<br><br>
+
+<a href="/attendance">
+Attendance
+</a>
+
+<br><br>
+
+<a href="/forecast_staff">
+Forecast Staff
+</a>
+
+{% endblock %}

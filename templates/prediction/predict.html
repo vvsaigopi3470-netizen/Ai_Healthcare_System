@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h2>Medical Prediction</h2>
+
+<form method="POST">
+
+<input name="patient_id">
+
+<input name="age">
+
+<select name="gender">
+    <option value="1">Male</option>
+    <option value="0">Female</option>
+</select>
+
+<input name="bp">
+
+<input name="sugar">
+
+<input name="bmi">
+
+<input name="cholesterol">
+
+<input name="heart_rate">
+
+<select name="smoking">
+    <option value="1">Yes</option>
+    <option value="0">No</option>
+</select>
+
+<select name="alcohol">
+    <option value="1">Yes</option>
+    <option value="0">No</option>
+</select>
+
+<select name="family_history">
+    <option value="1">Yes</option>
+    <option value="0">No</option>
+</select>
+
+{% endblock %}

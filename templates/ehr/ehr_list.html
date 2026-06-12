@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>EHR Records</title>
+</head>
+
+<body>
+
+<h1>Medical Records</h1>
+
+<table class="table-modern">
+
+<tr>
+
+<th>ID</th>
+<th>Patient</th>
+<th>Doctor</th>
+<th>Date</th>
+<th>Action</th>
+
+</tr>
+
+{% for r in records %}
+
+<tr>
+
+<td>{{r[0]}}</td>
+<td>{{r[1]}}</td>
+<td>{{r[2]}}</td>
+<td>{{r[3]}}</td>
+
+<td>
+
+<a href="/ehr/{{r[0]}}">
+
+View
+
+</a>
+
+|
+
+<a href="/delete_record/{{r[0]}}">
+
+Delete
+
+</a>
+
+</td>
+
+</tr>
+
+{% endfor %}
+
+</table>
+
+</body>
+</html>
+
+{% endblock %}

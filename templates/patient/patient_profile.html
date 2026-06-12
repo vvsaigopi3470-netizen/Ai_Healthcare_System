@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Patient Profile</title>
+</head>
+
+<body>
+
+<h1>Patient Profile</h1>
+
+<p>Name: {{ patient[2] }}</p>
+
+<p>Age: {{ patient[3] }}</p>
+
+<p>Gender: {{ patient[4] }}</p>
+
+<p>Blood Group: {{ patient[7] }}</p>
+
+<p>Medical History:
+{{ patient[8] }}
+</p>
+
+<p>Allergies:
+{{ patient[9] }}
+</p>
+
+<p>Insurance:
+{{ patient[11] }}
+</p>
+
+</body>
+</html>
+
+{% endblock %}

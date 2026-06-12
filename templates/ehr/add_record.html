@@ -1,0 +1,100 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Add Medical Record</title>
+</head>
+
+<body>
+
+<h2>Add Medical Record</h2>
+
+<form
+method="POST"
+enctype="multipart/form-data">
+
+<select name="patient_id">
+
+{% for p in patients %}
+
+<option value="{{p[0]}}">
+{{p[1]}}
+</option>
+
+{% endfor %}
+
+</select>
+
+<br><br>
+
+<select name="doctor_id">
+
+{% for d in doctors %}
+
+<option value="{{d[0]}}">
+{{d[1]}}
+</option>
+
+{% endfor %}
+
+</select>
+
+<br><br>
+
+<textarea
+name="diagnosis"
+placeholder="Diagnosis">
+</textarea>
+
+<br><br>
+
+<textarea
+name="prescription"
+placeholder="Prescription">
+</textarea>
+
+<br><br>
+
+<textarea
+name="treatment_history"
+placeholder="Treatment History">
+</textarea>
+
+<br><br>
+
+<textarea
+name="vaccination_record"
+placeholder="Vaccination Details">
+</textarea>
+
+<br><br>
+
+<textarea
+name="doctor_notes"
+placeholder="Doctor Notes">
+</textarea>
+
+<br><br>
+
+<input
+type="file"
+name="report">
+
+<br><br>
+
+<button type="submit">
+
+Save Record
+
+</button>
+
+</form>
+
+</body>
+</html>
+
+{% endblock %}

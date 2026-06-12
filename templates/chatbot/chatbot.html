@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>
+Healthcare Chatbot
+</title>
+</head>
+
+<body>
+
+<h1>
+AI Healthcare Assistant
+</h1>
+
+<form method="POST">
+
+<input
+type="number"
+name="patient_id"
+placeholder="Patient ID">
+
+<br><br>
+
+<textarea
+name="message"
+placeholder="Ask your question">
+</textarea>
+
+<br><br>
+
+<button type="submit">
+
+Send
+
+</button>
+
+</form>
+
+{% if response %}
+
+<h3>
+Assistant Response:
+</h3>
+
+<p>
+{{ response }}
+</p>
+
+{% endif %}
+
+</body>
+</html>
+
+{% endblock %}

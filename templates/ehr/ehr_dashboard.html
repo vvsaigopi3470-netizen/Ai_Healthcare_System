@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>EHR Dashboard</title>
+</head>
+
+<body>
+
+<h1>EHR Dashboard</h1>
+
+<h2>
+
+Total Medical Records:
+{{ total }}
+
+</h2>
+
+<a href="/add_record">
+
+Add Record
+
+</a>
+
+<br><br>
+
+<a href="/ehr_records">
+
+View Records
+
+</a>
+
+</body>
+</html>
+
+{% endblock %}

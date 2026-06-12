@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Appointment Details</title>
+</head>
+
+<body>
+
+<h1>Appointment Details</h1>
+
+<p>ID:
+{{ appointment[0] }}
+</p>
+
+<p>Patient ID:
+{{ appointment[1] }}
+</p>
+
+<p>Doctor ID:
+{{ appointment[2] }}
+</p>
+
+<p>Date:
+{{ appointment[3] }}
+</p>
+
+<p>Time:
+{{ appointment[4] }}
+</p>
+
+<p>Status:
+{{ appointment[5] }}
+</p>
+
+<p>Reason:
+{{ appointment[6] }}
+</p>
+
+</body>
+</html>
+
+{% endblock %}

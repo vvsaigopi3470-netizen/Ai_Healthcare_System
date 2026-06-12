@@ -1,0 +1,1501 @@
+Age,Gender,BP,Sugar,BMI,Cholesterol,HeartRate,Smoking,Alcohol,FamilyHistory,Disease
+26,Male,109,288,41.7,350,123,0,0,0,Diabetes
+18,Female,186,203,20.3,226,103,1,1,0,Healthy
+80,Female,149,291,33.2,294,92,1,0,0,Diabetes
+67,Female,156,245,26.4,261,64,1,0,0,Heart Disease
+39,Female,160,135,21.2,267,126,0,1,1,Heart Disease
+73,Female,117,138,32.3,142,88,1,0,0,Healthy
+29,Female,178,263,41.9,141,98,1,1,1,Diabetes
+39,Male,157,129,41.8,252,96,0,0,0,Heart Disease
+44,Female,171,95,34.8,216,104,0,0,0,Healthy
+52,Male,130,156,27.2,298,59,1,1,1,Cancer Risk
+54,Male,171,108,19.8,207,77,0,1,0,Healthy
+59,Male,149,266,39.0,350,110,0,1,0,Diabetes
+52,Female,136,280,33.5,216,74,1,0,1,Diabetes
+37,Male,165,277,25.1,309,66,0,1,1,Heart Disease
+26,Female,96,259,19.4,343,69,0,1,0,Healthy
+26,Female,100,171,39.9,210,94,1,1,1,Healthy
+66,Female,187,122,21.0,350,79,0,0,1,Heart Disease
+24,Female,190,212,41.7,283,74,1,0,1,Diabetes
+27,Female,171,242,36.0,207,82,1,0,0,Diabetes
+41,Male,166,79,24.1,330,119,0,0,0,Heart Disease
+54,Male,117,236,37.3,304,90,1,1,0,Diabetes
+37,Male,174,241,24.8,180,114,0,1,1,Healthy
+77,Male,153,197,21.2,220,118,1,0,0,Kidney Disease
+53,Female,190,198,24.5,234,74,0,1,0,Healthy
+48,Male,93,285,35.1,231,112,0,1,0,Diabetes
+43,Male,174,143,41.8,209,112,1,0,1,Healthy
+33,Female,139,105,35.5,276,116,0,1,0,Healthy
+78,Female,94,111,37.4,328,104,1,1,1,Cancer Risk
+47,Female,102,81,29.1,278,66,1,1,1,Healthy
+39,Female,95,89,37.7,323,67,0,1,1,Healthy
+50,Male,91,276,36.0,224,114,0,1,1,Diabetes
+29,Female,144,92,40.1,239,126,1,0,1,Healthy
+65,Female,102,231,18.9,224,94,0,1,1,Healthy
+27,Female,127,239,28.6,185,71,0,1,1,Diabetes
+28,Female,163,84,18.9,275,120,0,0,1,Heart Disease
+51,Female,178,152,18.7,298,106,1,0,0,Heart Disease
+56,Male,98,213,19.6,300,117,0,0,0,Healthy
+76,Female,173,195,40.5,343,71,1,1,0,Diabetes
+77,Male,133,162,23.5,220,79,0,1,1,Healthy
+64,Female,119,300,31.8,267,114,0,1,0,Diabetes
+51,Female,100,288,21.7,335,84,1,1,0,Healthy
+80,Male,188,215,25.1,143,122,0,1,0,Kidney Disease
+30,Female,158,235,20.9,129,113,1,0,1,Healthy
+79,Female,96,286,19.6,231,97,1,1,1,Cancer Risk
+40,Female,122,86,34.1,176,100,1,1,0,Healthy
+77,Male,139,108,28.1,334,75,1,1,1,Cancer Risk
+25,Female,124,246,42.0,279,115,1,0,0,Diabetes
+64,Male,103,161,22.4,308,84,0,1,1,Healthy
+22,Male,159,262,36.1,226,56,0,0,1,Diabetes
+62,Female,183,142,18.6,273,59,1,1,1,Heart Disease
+21,Female,179,157,32.0,256,94,1,0,0,Heart Disease
+74,Female,167,287,37.1,283,72,0,0,0,Diabetes
+24,Female,143,159,24.8,301,116,0,0,0,Healthy
+50,Female,179,190,30.4,307,120,0,0,0,Diabetes
+40,Male,96,218,33.5,234,85,0,1,0,Diabetes
+30,Female,171,85,25.4,313,56,1,0,1,Heart Disease
+20,Female,165,252,18.3,341,106,0,1,0,Heart Disease
+54,Male,189,200,32.2,330,87,0,0,1,Diabetes
+78,Male,188,165,38.6,131,87,0,0,1,Kidney Disease
+64,Male,91,101,23.8,290,124,0,1,0,Healthy
+18,Male,96,115,42.0,325,91,1,0,1,Healthy
+49,Male,107,213,35.3,339,121,1,0,1,Diabetes
+64,Female,161,186,36.2,162,82,0,1,1,Diabetes
+19,Female,136,196,34.1,297,111,1,0,0,Diabetes
+62,Male,136,173,33.4,153,123,1,0,1,Cancer Risk
+63,Male,121,267,38.7,199,110,0,1,1,Diabetes
+36,Female,91,187,20.2,293,93,0,0,1,Healthy
+20,Female,165,92,22.2,265,95,1,1,0,Heart Disease
+39,Male,121,228,24.2,250,112,0,0,1,Healthy
+19,Female,180,224,27.8,182,127,1,1,1,Healthy
+56,Male,138,213,38.8,221,71,0,0,1,Diabetes
+81,Male,122,186,29.7,151,86,1,0,1,Diabetes
+82,Male,113,157,37.7,199,104,1,1,1,Cancer Risk
+55,Female,150,259,23.9,298,129,0,0,0,Healthy
+83,Female,164,115,37.9,204,112,0,0,0,Healthy
+83,Male,143,253,39.4,140,57,1,1,0,Diabetes
+70,Male,111,87,35.4,300,127,0,1,0,Healthy
+21,Female,102,104,39.5,142,84,1,0,0,Healthy
+49,Female,181,87,23.9,181,105,0,0,0,Healthy
+62,Male,136,212,32.5,175,57,0,1,1,Diabetes
+63,Male,102,168,28.6,143,72,1,0,1,Cancer Risk
+36,Male,108,111,41.2,181,102,1,0,1,Healthy
+72,Female,171,132,26.3,135,74,0,1,1,Healthy
+45,Male,164,274,29.3,302,69,1,1,0,Diabetes
+43,Male,162,81,33.5,322,91,0,0,0,Heart Disease
+30,Male,177,99,38.5,141,101,0,1,1,Healthy
+54,Male,114,258,32.2,145,58,0,0,1,Diabetes
+43,Male,166,280,29.7,326,101,1,0,1,Diabetes
+69,Male,106,289,35.9,240,75,1,0,1,Diabetes
+60,Male,104,156,35.9,233,118,0,1,0,Healthy
+29,Male,120,89,22.8,134,117,1,0,1,Healthy
+47,Male,137,215,35.9,300,111,1,1,1,Diabetes
+50,Male,124,186,20.3,344,76,0,1,1,Healthy
+34,Female,153,130,29.5,134,86,1,1,1,Healthy
+35,Male,142,212,30.9,218,87,1,0,1,Diabetes
+33,Male,182,90,33.2,172,73,0,1,1,Healthy
+41,Female,177,186,24.7,216,74,1,1,0,Healthy
+45,Female,154,205,24.0,141,110,0,1,1,Healthy
+58,Male,143,213,24.8,269,60,1,0,0,Kidney Disease
+22,Female,127,119,37.6,181,78,0,1,1,Healthy
+71,Female,162,87,35.9,260,63,0,0,1,Heart Disease
+33,Female,158,170,25.6,164,115,0,1,0,Healthy
+61,Female,90,157,39.1,196,63,1,1,1,Cancer Risk
+82,Female,132,297,30.2,230,76,0,0,0,Diabetes
+60,Female,144,167,21.9,316,105,1,0,0,Kidney Disease
+73,Female,180,273,20.0,246,108,1,0,1,Heart Disease
+26,Male,166,172,39.8,218,58,1,1,1,Healthy
+66,Female,176,197,27.4,297,100,0,1,1,Heart Disease
+43,Male,121,131,30.0,306,72,0,0,0,Healthy
+31,Male,183,248,40.4,252,92,0,0,0,Diabetes
+41,Male,111,101,25.5,124,98,0,1,0,Healthy
+40,Female,167,145,18.5,120,122,0,1,0,Healthy
+56,Female,189,137,28.4,129,112,0,1,0,Healthy
+22,Female,155,91,26.8,260,73,1,1,0,Heart Disease
+62,Male,128,225,28.4,303,68,0,1,0,Diabetes
+38,Male,112,152,36.8,267,122,0,0,1,Healthy
+47,Male,122,114,19.0,263,122,1,0,1,Healthy
+66,Male,109,123,21.7,149,108,1,0,0,Healthy
+37,Female,123,203,41.5,123,86,0,1,0,Diabetes
+20,Female,108,257,40.0,258,79,1,0,0,Diabetes
+49,Female,128,158,39.1,163,62,1,1,1,Healthy
+65,Female,138,287,37.6,256,113,1,1,1,Diabetes
+49,Male,105,211,21.7,290,71,1,0,1,Healthy
+78,Male,151,213,37.4,350,129,1,1,1,Diabetes
+65,Male,185,250,28.9,128,105,1,0,1,Diabetes
+30,Female,142,268,34.4,195,101,1,1,0,Diabetes
+63,Male,181,158,36.4,240,104,1,1,0,Healthy
+31,Female,156,235,20.1,189,65,1,1,1,Healthy
+37,Female,146,168,40.0,270,74,0,1,0,Healthy
+24,Male,185,203,22.0,261,81,1,1,0,Heart Disease
+50,Male,153,176,41.8,121,120,0,1,0,Healthy
+58,Female,99,293,27.4,128,96,1,0,0,Healthy
+24,Male,167,281,38.9,160,55,1,1,0,Diabetes
+64,Female,122,166,18.7,267,107,1,1,0,Healthy
+24,Female,187,183,23.6,125,96,1,1,0,Healthy
+62,Male,123,172,38.7,202,107,0,1,0,Healthy
+36,Male,176,233,30.8,224,98,1,0,1,Diabetes
+27,Male,190,270,39.1,226,116,0,0,1,Diabetes
+20,Male,125,127,24.6,326,107,1,1,0,Healthy
+43,Female,166,212,35.3,218,87,1,1,1,Diabetes
+47,Female,122,108,19.9,125,83,1,0,0,Healthy
+67,Female,155,249,27.0,188,74,1,1,1,Kidney Disease
+79,Male,165,103,36.1,314,117,1,1,1,Heart Disease
+46,Female,157,139,28.0,243,95,0,1,0,Heart Disease
+26,Female,160,273,30.0,171,74,1,1,0,Diabetes
+56,Male,144,273,24.0,157,66,1,1,0,Kidney Disease
+29,Male,151,166,30.0,171,97,0,0,0,Healthy
+42,Female,95,244,37.1,161,95,0,1,1,Diabetes
+61,Male,101,215,35.1,155,120,0,0,1,Diabetes
+51,Male,127,198,20.3,235,68,1,0,1,Cancer Risk
+33,Male,99,81,20.5,319,73,1,1,1,Healthy
+24,Male,151,243,40.4,225,99,1,1,0,Diabetes
+71,Male,177,158,34.3,184,118,0,1,1,Healthy
+77,Male,160,131,27.7,219,102,1,1,1,Cancer Risk
+31,Female,119,234,34.9,323,93,0,1,1,Diabetes
+46,Male,129,137,32.7,186,81,0,1,1,Healthy
+78,Male,121,273,32.8,269,63,0,1,0,Diabetes
+51,Female,118,283,36.0,192,80,1,0,1,Diabetes
+26,Female,161,150,34.8,287,113,0,1,1,Heart Disease
+70,Female,188,176,31.4,217,55,1,0,1,Kidney Disease
+41,Male,135,212,32.1,168,89,1,1,0,Diabetes
+83,Male,150,213,35.4,183,74,1,1,0,Diabetes
+18,Female,165,121,34.6,308,95,1,0,1,Heart Disease
+74,Female,189,231,30.1,236,63,1,1,0,Diabetes
+41,Female,144,242,34.9,257,71,0,0,1,Diabetes
+33,Male,185,296,30.6,242,60,0,0,1,Diabetes
+25,Female,111,253,24.0,153,68,0,0,0,Healthy
+55,Male,165,99,20.5,329,101,1,0,0,Heart Disease
+60,Male,96,79,31.2,346,114,1,1,0,Healthy
+68,Male,148,216,26.9,196,91,1,1,0,Kidney Disease
+26,Female,120,116,28.4,128,67,0,0,1,Healthy
+38,Female,96,297,32.2,330,124,0,0,1,Diabetes
+76,Male,123,156,20.2,169,75,0,1,1,Healthy
+23,Female,119,194,28.9,312,88,0,0,0,Diabetes
+85,Male,149,226,33.1,188,103,0,0,1,Diabetes
+35,Female,137,252,19.3,202,128,1,0,1,Healthy
+78,Male,96,276,22.4,339,94,0,0,1,Healthy
+51,Male,146,285,33.2,280,82,1,1,0,Diabetes
+85,Female,124,76,35.9,232,128,1,1,1,Cancer Risk
+19,Female,110,84,22.7,222,130,0,0,1,Healthy
+83,Male,112,134,39.2,311,86,0,1,0,Healthy
+66,Female,106,181,40.6,235,123,0,1,0,Diabetes
+78,Female,92,77,38.5,216,127,1,0,1,Cancer Risk
+64,Male,190,140,41.1,124,109,0,0,1,Healthy
+61,Male,155,195,26.4,183,76,0,0,1,Kidney Disease
+28,Female,138,206,34.3,164,123,1,0,1,Diabetes
+22,Male,136,140,36.8,133,93,0,0,1,Healthy
+70,Female,164,132,24.4,318,93,1,0,1,Heart Disease
+71,Female,94,98,35.6,253,116,0,1,0,Healthy
+66,Female,146,140,37.3,222,86,0,1,1,Healthy
+44,Female,160,126,23.4,260,62,1,0,0,Heart Disease
+59,Male,157,112,23.1,141,101,0,1,1,Healthy
+70,Female,97,232,39.1,240,125,0,0,0,Diabetes
+66,Male,150,235,23.6,342,107,1,1,1,Kidney Disease
+84,Male,108,213,34.1,302,125,1,0,0,Diabetes
+50,Male,143,203,31.4,123,104,1,1,0,Diabetes
+71,Male,100,91,32.3,257,119,0,1,1,Healthy
+68,Female,136,165,18.1,211,67,1,1,0,Healthy
+68,Male,93,241,31.2,330,115,0,0,1,Diabetes
+83,Female,178,275,20.8,212,99,1,0,0,Kidney Disease
+25,Male,176,95,27.7,178,71,0,0,0,Healthy
+22,Male,188,239,32.4,279,114,0,1,0,Diabetes
+45,Female,95,141,29.8,164,63,1,0,0,Healthy
+30,Female,134,84,21.3,320,71,1,0,1,Healthy
+33,Female,116,209,34.6,350,67,0,1,0,Diabetes
+59,Female,108,289,36.1,222,103,1,1,1,Diabetes
+31,Female,163,136,38.9,175,128,1,1,0,Healthy
+48,Male,164,259,34.9,265,60,1,1,1,Diabetes
+54,Female,180,278,38.8,303,93,1,1,1,Diabetes
+82,Female,126,292,18.3,340,86,1,0,1,Cancer Risk
+76,Female,155,246,38.6,295,100,0,1,1,Diabetes
+37,Male,133,254,34.4,266,81,1,1,0,Diabetes
+83,Female,148,192,29.5,132,84,0,0,0,Diabetes
+75,Female,115,154,19.7,122,130,1,0,1,Cancer Risk
+20,Female,91,181,21.2,327,55,1,0,1,Healthy
+24,Female,92,296,32.7,320,103,1,0,1,Diabetes
+26,Male,158,143,40.0,151,87,1,0,0,Healthy
+61,Female,173,281,20.3,201,72,0,1,1,Kidney Disease
+23,Male,94,125,32.8,337,103,0,1,0,Healthy
+81,Male,129,266,38.4,251,55,0,1,1,Diabetes
+18,Female,173,110,38.0,254,99,0,1,0,Heart Disease
+28,Female,145,253,26.3,269,109,1,1,1,Healthy
+55,Female,173,108,35.9,304,98,1,0,1,Heart Disease
+51,Male,119,178,41.2,222,83,1,0,1,Cancer Risk
+63,Male,165,122,40.9,292,116,1,0,1,Heart Disease
+44,Male,154,201,18.3,253,122,0,1,1,Heart Disease
+31,Male,92,245,37.4,139,60,0,1,0,Diabetes
+24,Male,178,202,28.3,170,94,1,0,1,Diabetes
+66,Male,122,290,35.1,146,91,1,1,1,Diabetes
+19,Male,160,182,32.4,229,84,1,0,1,Diabetes
+61,Female,131,237,19.3,189,110,0,0,0,Healthy
+46,Male,111,135,24.6,302,63,0,1,1,Healthy
+79,Male,102,149,20.0,159,101,1,1,1,Cancer Risk
+48,Female,94,138,30.1,210,108,1,0,0,Healthy
+28,Male,153,175,24.3,289,101,1,1,1,Heart Disease
+38,Male,90,116,24.1,164,127,0,0,1,Healthy
+82,Female,99,83,23.4,323,101,0,1,1,Healthy
+65,Male,97,293,19.3,156,75,0,1,0,Healthy
+61,Female,189,140,19.6,266,102,1,0,1,Heart Disease
+23,Male,183,71,18.2,301,83,1,1,1,Heart Disease
+81,Female,113,109,36.4,339,112,0,0,0,Healthy
+48,Female,122,202,40.5,218,66,1,1,0,Diabetes
+64,Male,185,195,29.2,290,90,1,1,0,Diabetes
+55,Male,115,110,41.8,265,127,1,1,0,Healthy
+32,Male,179,257,26.5,191,108,0,0,0,Healthy
+63,Female,99,262,36.8,252,72,0,1,1,Diabetes
+22,Male,169,192,29.9,152,100,0,0,1,Diabetes
+58,Female,143,187,19.8,328,117,0,0,0,Kidney Disease
+81,Male,175,106,31.1,132,79,1,0,1,Cancer Risk
+24,Male,106,280,30.3,338,63,1,1,0,Diabetes
+36,Male,177,105,35.4,268,79,0,1,0,Heart Disease
+59,Female,130,95,32.7,335,74,0,0,1,Healthy
+22,Male,144,135,25.2,150,107,1,1,0,Healthy
+70,Female,134,107,40.2,252,122,0,1,0,Healthy
+66,Female,106,132,18.2,172,84,1,1,0,Healthy
+76,Male,122,190,25.9,297,120,1,1,1,Cancer Risk
+21,Female,96,233,21.7,346,96,0,1,0,Healthy
+33,Male,110,145,22.7,201,68,0,1,1,Healthy
+24,Male,173,182,19.7,227,57,1,1,0,Healthy
+83,Male,123,242,28.2,154,96,0,1,1,Diabetes
+34,Female,179,290,39.9,264,79,0,0,0,Diabetes
+59,Male,100,288,32.8,172,121,1,1,1,Diabetes
+80,Female,139,153,21.6,228,118,0,0,1,Healthy
+50,Male,92,155,32.1,138,121,0,1,1,Healthy
+40,Female,112,147,38.0,227,85,1,0,1,Healthy
+26,Female,106,107,20.5,253,91,1,0,0,Healthy
+35,Male,154,296,38.7,301,91,0,1,0,Diabetes
+48,Male,100,270,29.7,268,95,0,1,1,Diabetes
+72,Female,90,93,25.0,220,60,0,1,0,Healthy
+26,Male,131,102,27.0,247,74,1,0,0,Healthy
+19,Female,158,237,39.8,242,75,0,1,1,Diabetes
+82,Male,169,157,28.8,199,124,0,0,0,Healthy
+81,Male,121,169,24.7,242,90,0,1,1,Healthy
+77,Male,134,280,22.8,199,116,1,0,0,Healthy
+60,Female,149,286,18.6,278,128,1,1,1,Kidney Disease
+77,Male,189,266,30.4,213,93,1,1,0,Diabetes
+35,Female,161,103,29.7,205,81,1,1,1,Healthy
+62,Male,157,216,34.0,233,84,1,1,1,Diabetes
+33,Female,135,86,29.5,140,88,0,0,1,Healthy
+65,Male,97,276,27.0,259,70,1,0,1,Cancer Risk
+58,Female,107,253,21.5,298,119,0,1,0,Healthy
+38,Male,136,287,34.9,248,92,0,0,0,Diabetes
+29,Female,185,146,29.2,253,76,1,1,1,Heart Disease
+61,Female,170,127,20.8,306,114,1,0,1,Heart Disease
+53,Female,178,287,29.8,205,96,0,1,0,Diabetes
+35,Male,107,75,34.3,277,55,1,1,1,Healthy
+39,Male,186,192,23.5,197,56,0,0,1,Healthy
+28,Female,107,139,20.4,169,78,0,1,1,Healthy
+48,Female,116,293,40.0,347,71,0,0,1,Diabetes
+39,Male,161,216,35.8,151,63,1,0,0,Diabetes
+53,Female,156,291,32.6,322,81,1,1,0,Diabetes
+65,Male,109,182,31.7,162,83,1,1,1,Diabetes
+20,Male,167,188,22.7,153,124,0,1,1,Healthy
+42,Male,155,233,32.9,174,115,1,1,1,Diabetes
+27,Female,156,147,30.2,312,76,0,1,1,Heart Disease
+44,Male,140,164,32.3,152,100,1,1,1,Healthy
+84,Male,112,86,24.3,207,105,1,0,0,Healthy
+54,Male,189,77,32.7,271,65,1,0,0,Heart Disease
+84,Female,190,273,33.1,317,66,0,1,1,Diabetes
+40,Female,103,286,26.6,186,121,1,0,1,Healthy
+73,Female,97,236,27.1,233,79,1,0,0,Healthy
+61,Female,92,239,30.4,303,128,1,0,0,Diabetes
+52,Male,146,230,40.1,322,60,1,0,1,Diabetes
+73,Male,167,299,26.4,276,128,0,1,0,Heart Disease
+54,Female,136,215,27.6,314,125,0,0,0,Healthy
+66,Male,184,192,28.9,209,130,0,0,1,Diabetes
+77,Female,155,193,25.4,349,62,0,1,0,Heart Disease
+75,Female,116,286,19.9,140,124,1,0,1,Cancer Risk
+71,Female,96,172,37.4,346,61,0,1,1,Healthy
+34,Male,92,258,32.6,153,128,1,1,1,Diabetes
+27,Female,102,112,23.7,262,74,1,0,1,Healthy
+43,Male,121,70,37.5,217,91,0,0,0,Healthy
+68,Male,114,74,24.7,337,126,1,1,0,Healthy
+42,Female,158,258,36.6,166,63,1,0,0,Diabetes
+19,Female,124,184,22.5,282,66,0,0,0,Healthy
+23,Male,95,221,26.8,180,83,0,1,1,Healthy
+31,Male,145,223,37.6,294,125,0,0,1,Diabetes
+28,Female,105,200,41.6,277,99,1,0,1,Diabetes
+37,Female,123,168,40.8,231,85,0,1,0,Healthy
+59,Male,165,84,32.8,313,83,1,1,1,Heart Disease
+34,Male,131,229,36.8,216,119,0,1,1,Diabetes
+68,Male,189,128,35.6,130,129,0,1,0,Healthy
+27,Male,158,288,23.3,288,126,0,0,1,Heart Disease
+40,Female,159,179,40.3,290,90,0,0,1,Heart Disease
+84,Male,93,153,20.9,154,73,1,1,1,Cancer Risk
+29,Female,161,160,35.1,324,108,1,0,1,Heart Disease
+56,Female,141,111,20.0,307,113,0,0,1,Healthy
+30,Female,106,237,23.9,330,99,0,0,1,Healthy
+75,Male,181,168,21.0,332,56,0,0,0,Heart Disease
+72,Male,127,173,23.0,284,78,1,0,1,Cancer Risk
+50,Male,132,278,28.9,213,84,0,1,1,Diabetes
+77,Male,108,122,31.4,164,114,1,0,0,Healthy
+60,Female,110,105,31.8,290,61,1,0,0,Healthy
+56,Male,155,127,18.1,122,91,0,0,1,Healthy
+21,Female,147,92,41.0,184,95,0,0,1,Healthy
+36,Female,157,119,40.8,130,118,0,1,1,Healthy
+82,Male,174,261,31.0,253,58,1,0,1,Diabetes
+39,Female,177,216,26.0,128,94,0,0,1,Healthy
+33,Female,128,290,26.0,188,81,0,0,0,Healthy
+68,Male,143,256,41.7,200,120,0,1,0,Diabetes
+66,Female,119,207,40.7,261,77,0,1,0,Diabetes
+29,Female,118,240,34.2,169,84,1,0,0,Diabetes
+61,Male,159,139,19.1,165,87,1,0,1,Cancer Risk
+56,Female,187,233,27.6,211,80,0,1,0,Kidney Disease
+18,Male,98,83,21.7,132,112,1,0,0,Healthy
+23,Female,150,155,30.4,135,66,0,0,0,Healthy
+79,Female,114,198,22.6,125,76,1,1,0,Healthy
+57,Female,161,156,18.7,326,121,1,0,1,Heart Disease
+31,Female,181,138,29.8,318,63,0,1,1,Heart Disease
+36,Female,93,103,35.4,123,77,1,0,1,Healthy
+48,Female,145,269,32.0,249,114,1,1,1,Diabetes
+43,Male,178,293,33.8,141,95,0,1,1,Diabetes
+67,Male,125,70,39.5,334,82,0,1,0,Healthy
+41,Male,117,276,35.4,156,116,0,1,0,Diabetes
+80,Female,141,173,29.3,146,59,1,1,0,Kidney Disease
+54,Male,143,95,36.9,282,96,0,0,1,Healthy
+38,Male,180,185,19.5,292,112,0,0,1,Heart Disease
+61,Female,113,235,33.9,293,127,1,1,0,Diabetes
+41,Female,129,159,33.2,278,117,1,1,0,Healthy
+35,Male,107,224,33.1,189,83,1,1,0,Diabetes
+83,Female,157,242,39.0,188,75,1,0,0,Diabetes
+83,Male,120,123,28.9,134,90,0,1,1,Healthy
+39,Male,166,96,29.3,250,84,0,0,1,Heart Disease
+68,Male,176,184,30.8,234,55,0,0,0,Diabetes
+29,Female,180,237,39.5,236,62,0,1,0,Diabetes
+51,Female,128,96,34.3,308,103,0,0,1,Healthy
+82,Male,188,268,33.9,170,56,0,0,0,Diabetes
+33,Male,130,233,30.5,195,112,1,1,1,Diabetes
+36,Male,98,106,29.8,132,95,1,0,1,Healthy
+61,Male,161,153,28.8,328,127,0,1,0,Heart Disease
+82,Male,171,168,22.3,141,91,0,1,1,Kidney Disease
+24,Male,129,257,22.0,141,55,1,1,1,Healthy
+43,Male,184,224,36.8,131,124,0,1,0,Diabetes
+47,Female,182,174,39.0,267,122,1,1,1,Heart Disease
+59,Male,134,134,37.8,247,104,0,1,0,Healthy
+54,Female,97,224,40.4,197,119,0,1,0,Diabetes
+51,Female,181,287,39.8,339,128,0,1,0,Diabetes
+54,Female,187,300,24.6,321,86,0,0,1,Heart Disease
+24,Male,153,133,22.5,278,121,0,0,1,Heart Disease
+68,Female,177,204,40.4,316,119,1,0,0,Diabetes
+31,Female,182,207,25.5,329,67,0,0,1,Heart Disease
+67,Male,172,220,35.9,122,60,0,1,1,Diabetes
+61,Male,150,114,19.0,272,125,1,1,0,Healthy
+54,Male,124,78,33.3,163,107,1,0,0,Healthy
+20,Male,163,270,32.1,338,105,0,0,1,Diabetes
+24,Male,181,161,37.4,188,129,1,0,0,Healthy
+62,Female,175,143,40.1,181,96,0,0,1,Healthy
+40,Male,105,156,23.9,319,78,0,0,0,Healthy
+46,Female,180,277,37.7,244,111,0,1,0,Diabetes
+70,Female,159,91,33.9,326,91,1,0,0,Heart Disease
+81,Male,123,297,35.3,231,126,0,0,0,Diabetes
+33,Male,96,242,30.5,154,84,1,1,1,Diabetes
+76,Male,106,176,39.6,220,92,1,0,1,Cancer Risk
+19,Female,118,86,40.0,310,112,0,1,1,Healthy
+18,Male,169,193,33.5,296,78,1,0,1,Diabetes
+60,Female,181,267,31.7,275,104,1,0,1,Diabetes
+51,Male,170,98,37.7,187,125,1,1,1,Cancer Risk
+18,Female,122,133,39.6,133,122,1,1,0,Healthy
+67,Male,147,294,31.9,291,89,1,1,0,Diabetes
+82,Male,141,225,40.5,311,87,0,1,0,Diabetes
+42,Female,111,170,27.9,305,63,1,1,0,Healthy
+67,Male,165,267,40.6,340,106,0,0,1,Diabetes
+53,Male,149,299,34.5,138,120,0,1,0,Diabetes
+63,Female,118,195,41.0,179,75,1,1,1,Diabetes
+69,Female,158,85,21.3,309,125,1,1,0,Heart Disease
+44,Male,189,209,37.0,275,103,1,1,0,Diabetes
+80,Male,126,143,24.0,273,79,0,0,1,Healthy
+59,Female,189,273,28.5,329,62,1,0,1,Diabetes
+85,Male,140,130,29.3,131,110,1,1,1,Cancer Risk
+62,Male,119,94,21.0,304,123,0,0,0,Healthy
+69,Female,110,250,22.0,165,113,1,0,0,Healthy
+81,Male,96,175,19.1,269,112,1,0,0,Healthy
+40,Male,167,81,33.2,175,89,0,0,1,Healthy
+77,Female,159,273,23.2,133,130,0,0,1,Kidney Disease
+33,Male,165,262,41.9,158,129,1,0,1,Diabetes
+21,Male,116,219,26.0,239,71,1,0,0,Healthy
+55,Male,183,144,34.4,139,83,1,1,0,Healthy
+68,Female,150,202,21.8,172,101,1,1,1,Kidney Disease
+63,Female,93,122,36.1,194,60,0,0,1,Healthy
+48,Female,189,227,26.0,141,84,1,0,1,Healthy
+54,Male,128,222,39.9,236,90,0,0,1,Diabetes
+19,Male,159,99,21.0,235,55,0,1,1,Healthy
+57,Female,115,114,30.7,144,83,1,1,0,Healthy
+32,Female,153,141,25.6,185,96,0,0,0,Healthy
+62,Male,178,281,40.0,182,122,0,0,1,Diabetes
+19,Male,182,139,29.1,149,112,0,1,1,Healthy
+58,Female,107,154,32.8,258,66,0,1,1,Healthy
+73,Female,100,295,30.8,239,114,1,1,0,Diabetes
+70,Female,99,143,32.2,290,126,1,0,0,Healthy
+24,Female,185,168,26.7,298,129,0,0,1,Heart Disease
+42,Male,99,72,32.2,139,81,1,1,1,Healthy
+56,Male,104,85,39.9,336,93,0,0,1,Healthy
+33,Female,186,248,24.4,317,104,1,1,1,Heart Disease
+19,Male,158,232,32.7,186,104,1,0,1,Diabetes
+70,Male,112,179,30.7,292,57,1,0,1,Cancer Risk
+80,Male,108,129,26.9,324,124,1,0,1,Cancer Risk
+51,Female,124,217,34.2,140,89,1,1,1,Diabetes
+67,Female,113,273,29.6,232,66,0,0,0,Diabetes
+81,Male,173,274,24.7,274,77,1,1,0,Heart Disease
+35,Male,95,291,20.4,280,102,0,1,1,Healthy
+35,Female,153,161,26.1,166,83,1,1,0,Healthy
+79,Female,174,275,28.6,162,88,1,0,1,Diabetes
+82,Female,177,87,20.7,290,83,1,1,0,Heart Disease
+34,Male,157,300,40.9,303,84,0,1,0,Diabetes
+44,Male,190,188,20.4,290,96,0,0,1,Heart Disease
+73,Male,128,101,25.5,274,123,1,1,1,Cancer Risk
+84,Female,143,238,27.0,247,87,1,1,0,Kidney Disease
+30,Female,186,139,28.6,286,90,1,1,0,Heart Disease
+26,Female,134,157,22.4,255,129,0,1,0,Healthy
+69,Female,181,154,36.6,318,58,0,0,0,Heart Disease
+22,Male,170,140,24.6,263,93,0,0,0,Heart Disease
+58,Female,128,71,29.8,179,83,0,0,0,Healthy
+76,Female,188,136,40.7,319,106,0,0,1,Heart Disease
+42,Male,170,263,36.3,230,74,0,0,1,Diabetes
+76,Male,147,220,35.0,321,96,0,0,0,Diabetes
+62,Male,110,101,41.0,271,90,1,0,0,Healthy
+44,Female,155,215,28.4,346,72,0,1,1,Diabetes
+79,Female,157,249,39.9,131,98,0,0,0,Diabetes
+72,Male,137,220,26.2,150,90,1,1,0,Healthy
+30,Male,134,174,27.9,139,103,1,0,0,Healthy
+42,Male,148,202,41.4,287,123,0,1,0,Diabetes
+79,Female,173,250,31.6,331,114,1,1,1,Diabetes
+69,Male,154,244,40.5,193,59,1,0,0,Diabetes
+80,Male,177,206,41.3,208,83,0,1,1,Diabetes
+62,Male,152,195,31.4,141,115,1,0,0,Diabetes
+55,Female,160,140,34.4,343,112,0,1,1,Heart Disease
+21,Female,174,224,22.4,253,86,1,0,0,Heart Disease
+24,Female,184,207,19.0,279,109,0,0,0,Heart Disease
+48,Female,170,193,19.2,313,73,1,1,0,Heart Disease
+44,Female,137,209,27.8,131,97,1,0,0,Healthy
+78,Female,155,282,32.9,212,65,1,0,1,Diabetes
+58,Female,127,235,28.5,265,57,1,0,1,Diabetes
+76,Female,168,236,36.2,193,123,1,1,0,Diabetes
+26,Female,100,198,21.8,242,129,1,1,1,Healthy
+77,Male,97,239,36.0,133,121,0,0,0,Diabetes
+74,Female,185,148,20.5,147,112,1,1,1,Cancer Risk
+53,Female,101,242,24.2,300,57,1,0,0,Healthy
+52,Male,90,242,21.5,294,85,0,1,1,Healthy
+34,Female,186,230,33.5,247,55,0,0,1,Diabetes
+78,Male,157,169,37.5,137,66,0,1,0,Kidney Disease
+39,Female,138,99,20.1,270,86,1,1,1,Healthy
+38,Female,147,299,32.1,270,130,1,0,0,Diabetes
+61,Female,164,191,23.3,187,66,0,0,1,Kidney Disease
+48,Male,158,79,23.7,143,73,0,1,0,Healthy
+58,Female,169,162,23.9,251,73,1,0,0,Heart Disease
+78,Female,133,185,23.3,226,122,0,1,0,Healthy
+65,Female,97,200,33.7,308,122,1,1,0,Diabetes
+79,Male,149,81,28.8,154,62,0,1,0,Healthy
+32,Male,169,144,35.7,170,124,1,1,0,Healthy
+26,Male,111,195,33.8,171,114,1,1,0,Diabetes
+27,Female,122,163,29.4,278,61,1,0,1,Healthy
+70,Female,141,239,39.0,314,69,0,0,1,Diabetes
+65,Female,147,226,22.6,324,95,0,0,1,Kidney Disease
+45,Male,94,171,23.9,135,65,0,1,1,Healthy
+23,Female,177,126,27.1,316,96,0,1,1,Heart Disease
+22,Female,173,189,35.1,282,113,1,1,1,Diabetes
+49,Female,130,102,21.7,282,64,0,1,0,Healthy
+31,Female,128,72,32.8,126,122,0,0,0,Healthy
+77,Male,91,199,38.6,193,128,1,1,1,Diabetes
+23,Male,159,283,40.8,324,64,0,1,0,Diabetes
+39,Female,167,249,22.9,294,102,0,1,0,Heart Disease
+55,Female,187,151,28.5,171,100,1,1,0,Healthy
+24,Male,132,137,30.3,175,86,1,1,0,Healthy
+42,Male,186,238,23.5,185,109,1,0,0,Healthy
+30,Male,162,114,27.1,258,77,0,0,1,Heart Disease
+33,Male,133,247,19.5,144,118,0,0,1,Healthy
+56,Male,164,176,20.5,227,107,1,1,1,Kidney Disease
+68,Female,152,101,38.6,147,75,1,1,1,Cancer Risk
+39,Female,176,237,40.7,270,111,0,0,1,Diabetes
+56,Female,152,268,19.7,199,122,0,1,1,Kidney Disease
+67,Male,153,221,33.0,181,60,0,1,0,Diabetes
+26,Female,111,199,29.6,213,86,0,0,0,Diabetes
+21,Female,157,127,27.6,336,60,1,0,1,Heart Disease
+54,Female,150,152,26.7,195,68,1,1,1,Cancer Risk
+78,Female,183,124,30.1,342,58,1,0,1,Heart Disease
+58,Male,168,201,19.4,163,69,0,1,1,Kidney Disease
+71,Male,114,202,27.0,259,79,1,1,0,Healthy
+50,Male,99,255,29.0,223,60,0,0,0,Diabetes
+30,Female,158,173,33.9,142,115,1,1,1,Healthy
+51,Female,149,186,32.4,279,80,0,1,0,Diabetes
+22,Male,159,168,22.1,219,93,1,0,0,Healthy
+67,Female,179,293,26.7,342,75,0,0,0,Heart Disease
+36,Female,166,145,31.5,313,127,1,0,1,Heart Disease
+42,Male,129,292,28.6,223,66,1,0,1,Diabetes
+22,Female,161,95,28.5,125,127,0,1,0,Healthy
+60,Male,101,141,31.2,266,69,0,0,0,Healthy
+24,Female,110,239,22.7,182,103,1,0,0,Healthy
+31,Male,129,295,27.6,309,124,0,0,0,Healthy
+29,Female,132,192,32.1,228,119,0,1,1,Diabetes
+42,Female,161,215,26.3,148,110,0,1,1,Healthy
+50,Male,178,238,18.1,294,110,0,1,1,Heart Disease
+36,Female,168,296,41.0,174,93,0,1,0,Diabetes
+46,Male,150,173,19.0,283,125,1,0,0,Healthy
+69,Female,170,213,27.9,151,119,0,1,1,Kidney Disease
+51,Female,118,298,34.5,332,120,0,1,0,Diabetes
+26,Male,117,194,22.0,220,121,0,1,0,Healthy
+45,Male,178,255,25.0,197,128,1,0,1,Healthy
+46,Female,131,264,33.0,323,76,0,0,0,Diabetes
+65,Male,125,73,20.1,224,118,1,0,1,Cancer Risk
+36,Male,90,250,33.7,339,73,1,0,0,Diabetes
+22,Male,150,281,30.6,171,104,0,1,0,Diabetes
+75,Male,99,123,18.4,165,99,1,1,0,Healthy
+82,Male,117,273,27.0,252,64,0,0,1,Healthy
+32,Male,144,230,39.8,280,118,0,1,0,Diabetes
+68,Female,142,275,41.3,175,122,1,0,0,Diabetes
+22,Female,117,117,22.6,315,89,1,0,0,Healthy
+72,Male,176,290,40.0,255,129,1,1,1,Diabetes
+42,Female,111,72,40.2,238,130,0,1,1,Healthy
+43,Female,113,209,34.7,309,74,1,0,0,Diabetes
+29,Female,114,195,21.3,316,114,1,1,0,Healthy
+81,Female,133,118,30.1,225,108,0,0,0,Healthy
+40,Female,141,119,29.0,279,77,0,0,0,Healthy
+51,Female,109,149,27.9,299,98,0,0,1,Healthy
+54,Male,104,247,39.3,125,97,1,0,0,Diabetes
+75,Male,176,187,37.1,186,102,1,0,0,Diabetes
+58,Male,173,137,27.6,151,112,0,0,0,Healthy
+38,Male,104,149,38.5,296,96,1,0,1,Healthy
+29,Male,96,208,36.3,181,79,1,0,1,Diabetes
+39,Male,150,236,26.8,294,98,1,1,0,Healthy
+81,Male,114,188,25.3,350,115,0,1,1,Healthy
+36,Male,184,241,39.0,248,103,1,1,1,Diabetes
+21,Male,176,172,24.8,315,73,0,1,1,Heart Disease
+45,Female,121,191,35.6,265,108,1,0,0,Diabetes
+29,Female,137,212,31.4,151,89,1,1,0,Diabetes
+60,Female,110,245,37.6,208,98,1,1,1,Diabetes
+34,Female,165,189,26.5,189,73,1,1,1,Healthy
+21,Male,142,135,28.0,136,87,1,1,0,Healthy
+63,Female,114,185,39.7,190,81,1,1,1,Diabetes
+80,Female,143,97,33.5,223,67,0,0,0,Healthy
+60,Male,96,115,33.7,202,110,1,1,1,Cancer Risk
+65,Male,143,78,24.2,138,100,0,1,0,Healthy
+45,Female,157,254,37.9,136,110,0,1,1,Diabetes
+32,Male,145,76,36.6,304,86,0,0,0,Healthy
+73,Female,104,192,35.0,327,66,1,0,0,Diabetes
+57,Female,121,236,26.8,271,67,1,1,0,Healthy
+62,Female,168,159,36.7,166,72,0,1,0,Healthy
+39,Male,130,131,33.7,241,130,1,1,1,Healthy
+70,Male,135,280,33.8,319,117,0,0,0,Diabetes
+59,Male,165,142,29.7,226,66,1,0,1,Cancer Risk
+73,Male,166,252,36.5,345,111,0,1,0,Diabetes
+41,Female,114,158,38.6,200,73,1,0,1,Healthy
+35,Female,130,243,32.2,234,95,0,1,0,Diabetes
+32,Female,172,210,23.6,129,110,0,1,0,Healthy
+36,Female,155,104,27.9,127,109,0,1,0,Healthy
+48,Male,115,202,37.2,279,125,1,1,1,Diabetes
+55,Male,153,246,20.9,157,121,1,1,1,Cancer Risk
+53,Male,181,190,31.7,200,71,0,1,0,Diabetes
+22,Male,181,205,29.5,132,127,1,0,1,Diabetes
+78,Female,141,228,32.1,144,99,0,1,0,Diabetes
+20,Female,126,294,39.7,171,99,0,1,0,Diabetes
+41,Female,134,262,22.3,202,83,0,1,0,Healthy
+39,Male,167,231,36.3,214,91,1,1,0,Diabetes
+68,Male,107,254,24.7,294,94,1,0,0,Healthy
+52,Male,94,223,30.1,311,106,1,1,0,Diabetes
+39,Male,113,180,25.6,204,60,0,1,1,Healthy
+54,Female,92,74,27.3,123,72,0,0,0,Healthy
+43,Female,181,83,23.5,172,79,0,0,0,Healthy
+30,Male,114,285,28.5,186,59,0,1,0,Diabetes
+30,Male,135,255,23.7,134,91,1,1,0,Healthy
+54,Male,117,172,41.3,123,128,0,1,1,Healthy
+60,Male,147,75,22.8,178,90,1,0,0,Healthy
+24,Male,108,153,41.0,163,92,0,0,0,Healthy
+77,Female,126,212,38.3,227,129,0,1,1,Diabetes
+21,Male,128,109,40.3,123,113,0,0,0,Healthy
+70,Male,102,165,21.5,120,120,0,0,0,Healthy
+54,Male,142,170,21.2,152,80,1,1,0,Healthy
+78,Male,135,126,18.4,262,81,0,0,1,Healthy
+68,Female,170,97,23.7,255,57,1,0,1,Heart Disease
+40,Male,187,121,39.8,231,105,0,1,1,Healthy
+78,Male,165,72,31.4,339,78,0,1,1,Heart Disease
+73,Male,174,103,23.6,170,100,0,1,0,Healthy
+45,Male,149,147,20.8,278,97,1,1,0,Healthy
+64,Female,98,143,25.3,305,121,1,1,0,Healthy
+37,Female,180,99,41.9,223,72,0,1,0,Healthy
+44,Female,119,288,30.7,328,87,1,1,0,Diabetes
+71,Male,181,240,41.7,194,125,1,1,0,Diabetes
+27,Female,100,183,21.3,196,114,0,1,0,Healthy
+74,Female,142,103,25.2,160,114,1,1,1,Cancer Risk
+59,Female,135,216,35.0,277,70,0,1,1,Diabetes
+57,Female,142,253,39.7,145,96,0,1,0,Diabetes
+23,Male,155,169,38.6,134,123,0,0,0,Healthy
+75,Female,116,218,26.6,197,110,0,0,1,Healthy
+75,Male,99,215,34.9,315,71,1,1,1,Diabetes
+26,Male,175,176,25.7,336,96,1,0,1,Heart Disease
+69,Female,149,109,24.1,251,105,1,1,1,Cancer Risk
+72,Female,163,279,31.4,144,130,0,0,1,Diabetes
+58,Male,179,73,23.5,328,72,1,0,0,Heart Disease
+39,Female,97,144,27.0,162,56,1,0,1,Healthy
+31,Male,165,269,40.9,314,89,0,1,1,Diabetes
+56,Male,94,77,36.1,244,102,1,1,1,Cancer Risk
+85,Female,120,285,30.7,203,65,1,1,1,Diabetes
+35,Male,96,203,32.8,254,74,0,0,1,Diabetes
+49,Female,187,95,20.7,248,65,1,1,1,Heart Disease
+37,Male,187,209,41.4,300,56,1,0,1,Diabetes
+39,Male,153,172,29.4,230,69,1,0,1,Healthy
+34,Female,143,203,32.5,228,77,1,0,0,Diabetes
+83,Female,163,141,38.9,121,121,0,1,0,Healthy
+23,Female,167,127,20.1,338,130,0,1,0,Heart Disease
+22,Female,183,75,34.1,146,69,0,0,0,Healthy
+32,Female,175,90,18.8,299,60,1,1,0,Heart Disease
+59,Female,139,260,22.3,278,63,0,0,0,Healthy
+78,Male,91,145,30.0,276,85,1,0,1,Cancer Risk
+60,Female,137,276,26.3,197,103,0,1,0,Healthy
+64,Male,173,200,36.3,320,73,0,1,1,Diabetes
+22,Female,121,141,26.3,139,93,0,1,1,Healthy
+49,Male,128,248,18.3,276,60,0,0,1,Healthy
+57,Male,91,179,18.3,320,91,0,1,1,Healthy
+63,Female,143,94,30.3,321,111,1,1,1,Cancer Risk
+45,Female,163,200,39.4,171,95,0,1,1,Diabetes
+21,Female,136,264,26.4,265,84,1,1,1,Healthy
+65,Male,146,92,28.4,220,71,0,1,0,Healthy
+78,Female,124,112,21.1,155,60,0,1,1,Healthy
+82,Female,167,182,35.9,165,64,1,1,0,Diabetes
+54,Male,117,148,33.9,139,106,0,0,0,Healthy
+42,Male,119,143,35.5,300,57,0,0,1,Healthy
+81,Male,177,243,30.0,226,129,1,1,1,Diabetes
+23,Male,93,289,20.9,279,99,1,1,0,Healthy
+22,Female,179,135,37.3,259,100,1,0,0,Heart Disease
+64,Female,100,230,27.4,247,102,1,1,0,Healthy
+48,Female,127,280,41.2,145,58,0,0,1,Diabetes
+49,Male,178,120,39.9,150,120,0,0,0,Healthy
+45,Male,160,246,35.2,154,96,0,0,0,Diabetes
+64,Male,117,150,18.2,263,81,0,0,0,Healthy
+79,Female,141,202,21.7,344,118,1,0,1,Kidney Disease
+32,Female,157,78,32.5,170,83,0,1,0,Healthy
+71,Male,155,90,24.8,232,64,1,0,0,Healthy
+76,Male,151,194,26.8,197,93,0,0,1,Kidney Disease
+69,Male,177,248,29.2,121,75,1,1,1,Diabetes
+63,Female,160,233,22.3,144,70,1,1,1,Kidney Disease
+79,Female,136,105,23.0,149,104,1,0,1,Cancer Risk
+33,Female,119,192,25.1,261,82,0,1,1,Healthy
+72,Female,154,186,40.9,164,100,0,1,1,Diabetes
+38,Male,159,293,31.3,152,75,1,1,0,Diabetes
+64,Male,163,243,21.3,231,118,0,1,1,Kidney Disease
+27,Male,100,289,26.4,210,118,1,1,0,Healthy
+52,Female,161,256,37.4,287,66,0,0,0,Diabetes
+36,Female,95,168,21.2,145,112,1,1,0,Healthy
+54,Male,149,140,33.0,342,125,0,1,0,Healthy
+37,Female,187,190,23.7,327,100,0,0,1,Heart Disease
+40,Male,144,251,34.5,196,74,1,0,0,Diabetes
+76,Male,150,110,25.4,149,93,0,1,1,Healthy
+80,Female,173,176,29.6,290,126,0,1,1,Heart Disease
+39,Female,163,97,20.9,224,127,0,1,0,Healthy
+54,Male,133,187,38.4,180,94,0,1,1,Diabetes
+20,Male,153,163,33.0,122,62,0,1,0,Healthy
+62,Male,118,197,27.4,231,58,0,1,0,Healthy
+35,Female,125,107,40.9,140,98,1,1,0,Healthy
+66,Female,96,262,30.0,142,78,0,1,0,Diabetes
+60,Male,92,157,38.9,171,87,0,0,0,Healthy
+52,Male,154,247,18.9,307,105,0,1,1,Heart Disease
+81,Female,123,225,42.0,134,128,0,0,0,Diabetes
+67,Female,169,105,31.4,221,70,0,1,0,Healthy
+46,Female,136,287,22.7,257,86,1,0,0,Healthy
+77,Female,179,181,34.6,287,100,0,0,1,Diabetes
+61,Male,171,243,39.2,162,106,0,1,0,Diabetes
+18,Female,159,211,21.4,348,75,1,0,0,Heart Disease
+37,Female,118,158,25.0,146,102,0,0,1,Healthy
+75,Female,135,212,23.1,125,89,0,0,0,Healthy
+69,Female,105,272,37.6,273,83,0,0,1,Diabetes
+30,Female,116,254,39.1,123,62,0,0,0,Diabetes
+43,Male,137,122,34.9,196,115,0,1,1,Healthy
+78,Male,166,212,24.5,318,64,0,0,0,Heart Disease
+29,Male,100,203,35.2,277,124,1,0,0,Diabetes
+32,Male,184,296,28.6,253,90,0,0,1,Diabetes
+46,Male,172,252,37.8,122,76,1,1,1,Diabetes
+24,Female,190,177,20.8,135,94,1,0,0,Healthy
+78,Male,163,137,29.1,334,104,0,0,0,Heart Disease
+40,Female,180,113,28.3,324,123,0,0,0,Heart Disease
+40,Female,169,275,28.1,144,103,0,0,1,Diabetes
+22,Female,178,262,19.0,154,63,1,1,0,Healthy
+50,Male,180,237,37.9,122,78,1,0,0,Diabetes
+71,Female,169,260,27.2,192,82,1,0,1,Kidney Disease
+20,Male,135,273,35.8,170,112,0,1,1,Diabetes
+68,Male,115,300,30.7,218,58,1,1,0,Diabetes
+58,Male,148,210,27.8,231,111,1,1,0,Kidney Disease
+38,Male,174,220,35.9,297,78,1,0,1,Diabetes
+18,Male,117,243,41.6,126,92,0,0,0,Diabetes
+51,Male,179,97,23.2,292,111,0,1,0,Heart Disease
+30,Male,156,198,19.7,231,122,1,0,1,Healthy
+71,Female,181,124,18.7,193,106,0,0,0,Healthy
+63,Male,161,76,28.4,250,108,0,1,1,Heart Disease
+28,Female,117,153,41.7,132,104,0,1,0,Healthy
+20,Female,121,152,20.5,137,65,0,0,0,Healthy
+78,Female,94,237,27.4,152,93,1,1,1,Cancer Risk
+22,Male,180,300,19.9,259,78,0,1,0,Heart Disease
+36,Female,189,123,31.3,147,73,0,1,0,Healthy
+37,Female,170,171,37.3,339,77,1,0,1,Heart Disease
+61,Male,140,190,38.3,280,93,0,1,1,Diabetes
+53,Male,96,231,33.8,270,123,1,0,1,Diabetes
+68,Male,178,272,23.9,291,115,0,0,0,Heart Disease
+84,Male,111,70,22.9,283,91,0,0,1,Healthy
+85,Male,167,143,42.0,308,91,0,0,0,Heart Disease
+33,Female,124,237,25.6,305,119,1,0,1,Healthy
+23,Male,119,224,28.9,126,126,1,0,1,Diabetes
+44,Male,122,133,32.7,269,74,1,0,1,Healthy
+29,Male,138,282,20.6,196,98,1,0,1,Healthy
+37,Male,165,121,18.7,296,112,0,0,0,Heart Disease
+46,Female,142,224,33.0,269,116,1,1,0,Diabetes
+71,Female,123,269,36.0,120,65,0,1,0,Diabetes
+59,Male,108,259,38.1,327,89,0,0,1,Diabetes
+43,Female,178,180,29.8,172,130,0,1,1,Healthy
+69,Female,110,129,31.8,290,70,1,0,0,Healthy
+28,Female,107,94,20.2,200,117,1,1,0,Healthy
+69,Male,157,78,38.6,300,76,1,0,0,Heart Disease
+41,Female,90,125,34.1,314,123,1,1,1,Healthy
+29,Male,148,177,22.1,146,127,0,0,1,Healthy
+44,Male,177,145,40.8,212,113,1,1,0,Healthy
+51,Male,173,80,36.0,300,67,0,1,1,Heart Disease
+63,Female,98,138,38.2,159,102,0,1,1,Healthy
+64,Male,133,131,20.5,274,59,0,0,0,Healthy
+85,Male,184,163,21.7,205,85,0,1,1,Kidney Disease
+50,Female,170,186,28.6,322,119,0,1,0,Diabetes
+71,Male,116,121,39.6,205,58,0,1,1,Healthy
+56,Female,109,233,38.5,291,114,0,1,1,Diabetes
+31,Male,151,214,20.7,195,75,0,1,0,Healthy
+71,Female,163,252,32.6,177,99,0,0,0,Diabetes
+63,Male,154,160,38.0,231,69,1,0,1,Cancer Risk
+49,Male,185,170,37.8,333,99,1,0,0,Heart Disease
+46,Male,142,131,23.5,186,114,1,1,1,Healthy
+33,Male,119,100,33.5,274,115,0,0,1,Healthy
+63,Male,127,182,24.8,302,107,0,0,1,Healthy
+26,Male,121,234,40.9,306,55,0,0,1,Diabetes
+81,Male,92,191,32.6,210,84,0,1,0,Diabetes
+65,Male,128,73,22.8,297,108,0,1,0,Healthy
+41,Female,170,77,40.6,301,82,1,0,1,Heart Disease
+23,Female,119,182,25.2,142,113,0,1,1,Healthy
+52,Male,186,289,24.4,161,103,0,0,0,Healthy
+45,Male,128,152,31.6,322,66,1,0,1,Healthy
+40,Male,153,169,18.7,296,115,0,1,1,Heart Disease
+21,Female,96,192,27.3,201,97,0,0,0,Healthy
+68,Female,174,98,37.6,121,81,0,1,1,Healthy
+62,Female,165,181,30.8,218,111,1,0,0,Diabetes
+53,Male,140,172,29.0,303,91,1,0,1,Cancer Risk
+41,Female,96,254,33.6,137,55,1,1,0,Diabetes
+82,Female,136,284,21.0,275,77,1,1,0,Healthy
+27,Male,181,77,29.9,169,121,1,0,0,Healthy
+43,Female,93,89,39.6,201,84,0,0,0,Healthy
+80,Female,106,289,33.4,214,97,1,0,1,Diabetes
+46,Female,95,229,25.0,218,112,1,1,0,Healthy
+36,Male,130,121,23.7,185,115,0,1,0,Healthy
+72,Male,152,84,41.0,348,83,1,1,0,Heart Disease
+33,Male,161,74,38.6,306,87,1,0,0,Heart Disease
+20,Male,176,70,26.4,211,130,0,1,1,Healthy
+54,Male,176,145,30.3,301,120,1,0,1,Heart Disease
+54,Male,145,232,24.4,147,98,0,1,1,Healthy
+51,Female,181,118,32.6,289,125,0,1,1,Heart Disease
+27,Female,134,242,31.5,298,75,1,0,1,Diabetes
+65,Male,180,208,29.7,183,60,0,1,0,Diabetes
+19,Male,142,187,25.7,315,94,0,1,1,Healthy
+22,Female,131,247,36.9,274,66,0,1,1,Diabetes
+49,Male,112,112,22.2,136,57,1,0,0,Healthy
+32,Male,98,233,33.1,135,58,0,1,0,Diabetes
+27,Male,154,126,32.3,256,104,0,1,0,Heart Disease
+59,Male,156,113,30.3,156,95,0,1,1,Healthy
+66,Female,138,180,21.4,184,119,0,0,0,Healthy
+30,Female,143,247,20.2,330,104,0,0,1,Healthy
+65,Male,177,96,21.4,125,101,1,0,0,Healthy
+80,Female,149,258,19.5,331,66,1,1,0,Kidney Disease
+53,Female,95,95,33.3,193,130,1,1,0,Healthy
+72,Male,178,276,23.6,280,70,0,0,1,Heart Disease
+57,Female,163,287,25.8,236,91,0,0,0,Kidney Disease
+33,Male,184,108,24.5,220,113,1,1,1,Healthy
+27,Male,130,137,41.3,325,122,1,1,0,Healthy
+83,Female,95,207,21.0,307,97,1,1,0,Healthy
+77,Female,143,109,18.7,136,79,1,0,1,Cancer Risk
+53,Female,106,272,30.3,206,55,0,0,1,Diabetes
+37,Female,189,85,29.8,305,68,0,1,0,Heart Disease
+32,Female,97,299,18.7,122,91,0,1,1,Healthy
+73,Female,107,165,32.4,121,89,1,0,0,Healthy
+81,Female,100,219,30.1,284,110,0,1,0,Diabetes
+24,Male,133,245,30.0,234,103,1,0,1,Diabetes
+55,Female,113,159,19.9,255,100,1,1,1,Cancer Risk
+82,Male,172,206,30.9,336,58,0,1,1,Diabetes
+33,Male,148,293,27.9,261,62,1,1,1,Healthy
+56,Male,116,259,21.2,297,76,1,1,1,Cancer Risk
+72,Female,142,253,29.2,145,121,0,0,1,Diabetes
+42,Female,118,93,38.9,173,91,1,1,0,Healthy
+84,Female,163,235,28.7,343,55,0,0,0,Diabetes
+57,Female,179,113,28.6,346,114,1,0,1,Heart Disease
+68,Female,144,244,38.3,174,122,0,1,0,Diabetes
+54,Male,103,170,30.5,170,84,0,0,0,Healthy
+54,Male,172,152,37.1,265,55,1,1,0,Heart Disease
+51,Female,187,246,41.4,219,72,0,0,1,Diabetes
+58,Female,96,135,25.6,244,115,0,1,1,Healthy
+54,Male,166,280,20.6,277,121,0,1,0,Heart Disease
+37,Female,126,164,41.1,154,87,1,0,1,Healthy
+77,Male,153,272,30.2,177,89,0,1,0,Diabetes
+73,Female,107,153,32.6,308,128,1,1,1,Cancer Risk
+25,Female,127,103,26.7,135,77,1,0,0,Healthy
+23,Male,130,246,20.9,135,83,0,0,1,Healthy
+22,Male,139,132,20.0,183,91,0,1,1,Healthy
+46,Male,165,106,30.6,180,110,0,1,1,Healthy
+23,Male,153,165,18.5,319,95,0,1,1,Heart Disease
+33,Male,115,129,39.4,234,60,1,0,0,Healthy
+68,Male,159,178,30.8,219,67,1,1,1,Kidney Disease
+76,Male,129,185,35.9,211,80,0,0,0,Diabetes
+48,Male,168,258,40.8,279,121,1,0,0,Diabetes
+60,Male,91,162,28.4,252,112,1,1,1,Cancer Risk
+66,Female,90,212,28.2,293,64,0,0,0,Diabetes
+75,Male,144,171,29.8,204,102,0,0,0,Kidney Disease
+84,Male,150,205,35.4,322,125,1,1,1,Diabetes
+52,Female,145,180,41.5,249,91,0,0,1,Healthy
+71,Female,155,213,33.9,226,102,1,1,0,Diabetes
+26,Female,146,216,24.4,330,117,0,1,1,Healthy
+84,Male,171,117,27.9,258,65,0,1,0,Heart Disease
+66,Female,115,208,20.6,196,116,0,1,1,Healthy
+47,Female,183,243,31.4,350,76,0,1,1,Diabetes
+76,Female,97,184,22.0,286,130,1,1,0,Healthy
+25,Female,154,106,39.5,246,57,0,0,1,Heart Disease
+19,Female,150,278,40.8,145,71,0,0,1,Diabetes
+44,Male,134,249,21.1,227,65,1,0,1,Healthy
+38,Male,110,215,31.0,149,129,0,0,0,Diabetes
+40,Male,164,142,39.9,125,122,0,0,1,Healthy
+42,Female,183,77,35.8,207,57,1,0,0,Healthy
+54,Male,148,272,33.6,184,76,1,0,1,Diabetes
+32,Female,173,270,34.5,242,100,0,0,1,Diabetes
+31,Male,168,185,21.3,131,84,0,0,0,Healthy
+66,Male,190,200,40.1,195,108,0,0,1,Diabetes
+23,Female,135,125,23.7,314,90,0,0,1,Healthy
+50,Female,145,238,30.4,164,99,0,1,0,Diabetes
+48,Male,184,243,36.2,189,56,0,1,0,Diabetes
+52,Female,124,186,37.7,174,108,1,1,1,Diabetes
+48,Male,95,133,32.8,224,87,0,1,0,Healthy
+35,Male,123,98,37.5,182,81,0,0,1,Healthy
+44,Male,154,130,24.2,126,89,0,0,0,Healthy
+40,Female,115,73,20.7,280,127,0,0,1,Healthy
+76,Male,132,198,25.9,170,80,1,0,1,Cancer Risk
+77,Female,189,213,19.5,273,117,0,1,0,Heart Disease
+53,Female,169,298,36.2,327,91,0,1,0,Diabetes
+85,Female,168,199,30.4,230,62,1,1,0,Diabetes
+20,Male,121,111,28.4,252,86,1,0,1,Healthy
+44,Female,186,260,22.3,275,111,1,1,1,Heart Disease
+69,Female,141,206,35.1,190,102,0,1,1,Diabetes
+66,Male,189,74,19.3,136,109,1,1,0,Healthy
+52,Male,189,230,27.6,275,110,1,0,0,Heart Disease
+70,Female,160,70,22.9,199,86,1,0,0,Healthy
+75,Male,167,163,18.3,203,103,0,0,0,Kidney Disease
+38,Male,182,233,26.0,300,92,1,0,0,Heart Disease
+72,Male,106,207,35.4,127,120,0,0,0,Diabetes
+30,Female,172,276,19.6,296,58,0,1,0,Heart Disease
+35,Female,98,177,25.6,299,112,0,1,0,Healthy
+25,Female,98,115,39.1,330,59,0,0,1,Healthy
+64,Male,97,85,30.3,193,123,0,1,1,Healthy
+52,Male,110,149,34.9,301,121,1,1,0,Healthy
+50,Male,135,254,24.9,154,119,1,0,0,Healthy
+59,Male,143,192,33.3,176,76,1,0,0,Diabetes
+59,Female,139,146,35.8,341,87,0,1,1,Healthy
+40,Female,96,116,36.4,302,76,0,1,0,Healthy
+30,Female,160,282,30.7,126,105,0,1,1,Diabetes
+60,Male,93,142,29.4,212,115,0,0,1,Healthy
+42,Male,124,77,34.7,249,93,1,0,0,Healthy
+75,Female,147,180,39.6,334,76,0,1,1,Kidney Disease
+18,Male,129,138,28.8,248,66,1,1,1,Healthy
+30,Female,174,224,33.3,220,109,1,1,0,Diabetes
+27,Male,94,152,31.1,337,89,0,0,0,Healthy
+56,Male,178,288,31.3,141,100,0,1,1,Diabetes
+82,Female,164,155,30.5,265,68,1,1,0,Heart Disease
+57,Female,121,136,38.2,258,99,0,0,1,Healthy
+68,Female,100,78,36.6,299,114,1,0,1,Cancer Risk
+47,Male,134,278,23.1,242,73,1,0,0,Healthy
+35,Female,181,175,33.5,234,84,0,0,1,Healthy
+34,Male,170,266,36.8,121,115,1,0,1,Diabetes
+38,Male,107,104,23.6,180,124,1,1,1,Healthy
+47,Male,97,212,22.2,173,60,1,0,1,Healthy
+38,Male,157,85,29.2,205,70,0,0,1,Healthy
+78,Female,115,132,35.4,284,74,1,0,1,Cancer Risk
+58,Male,129,187,27.4,251,79,1,0,0,Healthy
+23,Female,130,214,32.9,258,81,1,1,0,Diabetes
+64,Female,163,286,34.8,305,66,1,1,1,Diabetes
+28,Female,116,137,20.7,319,59,0,1,0,Healthy
+32,Female,102,114,25.1,270,115,0,0,0,Healthy
+52,Female,174,226,30.0,163,103,0,0,0,Diabetes
+43,Female,94,74,32.9,332,117,0,1,1,Healthy
+32,Male,123,153,21.5,269,114,1,1,0,Healthy
+82,Male,93,250,34.0,247,60,1,0,0,Diabetes
+25,Male,140,259,24.8,122,78,1,1,1,Healthy
+67,Female,181,86,34.9,140,78,0,0,0,Healthy
+56,Male,164,107,27.3,313,125,0,0,0,Heart Disease
+81,Male,115,231,40.6,179,55,1,0,0,Diabetes
+74,Male,183,72,31.7,311,68,0,0,1,Heart Disease
+20,Female,169,168,36.8,188,125,0,1,1,Healthy
+62,Male,187,173,37.0,330,121,0,1,1,Heart Disease
+65,Male,121,132,30.6,290,91,0,0,0,Healthy
+42,Male,151,164,33.7,201,77,0,0,0,Healthy
+40,Female,142,92,36.9,199,116,1,0,1,Healthy
+48,Male,169,76,38.1,260,100,0,0,0,Heart Disease
+75,Female,134,233,38.0,240,105,1,0,0,Diabetes
+47,Female,189,88,24.0,256,70,0,0,1,Heart Disease
+60,Female,160,238,35.5,338,107,1,1,0,Diabetes
+39,Female,186,201,34.1,212,116,1,0,0,Diabetes
+82,Female,102,228,32.9,288,56,1,1,1,Diabetes
+23,Female,113,133,23.2,172,88,0,1,0,Healthy
+85,Male,137,209,36.7,285,65,1,0,0,Diabetes
+41,Male,91,246,32.7,305,81,0,1,0,Diabetes
+62,Female,121,80,33.9,186,86,1,0,1,Cancer Risk
+67,Male,108,138,37.5,240,91,1,1,0,Healthy
+63,Male,188,93,38.2,216,116,1,1,1,Cancer Risk
+63,Female,161,281,26.2,324,98,1,1,0,Heart Disease
+56,Male,113,195,34.8,262,65,1,0,1,Diabetes
+43,Male,139,89,31.7,159,70,0,0,0,Healthy
+45,Male,108,206,38.0,346,91,0,0,0,Diabetes
+55,Female,151,213,39.2,234,70,1,1,1,Diabetes
+34,Female,138,260,33.0,150,122,0,1,1,Diabetes
+85,Male,110,164,21.9,320,116,0,1,0,Healthy
+63,Male,157,159,33.8,304,109,0,1,1,Heart Disease
+34,Female,167,188,28.1,140,76,1,0,0,Diabetes
+37,Male,123,274,23.3,343,99,0,0,0,Healthy
+18,Male,113,156,35.8,143,107,0,0,0,Healthy
+80,Male,163,263,18.6,206,117,0,0,1,Kidney Disease
+24,Male,142,75,30.9,144,74,1,0,0,Healthy
+45,Male,116,275,39.6,343,75,1,0,1,Diabetes
+50,Female,120,139,23.6,350,67,1,0,0,Healthy
+56,Female,106,253,35.6,195,125,1,1,0,Diabetes
+51,Male,103,113,24.6,170,78,1,0,1,Cancer Risk
+79,Male,130,124,36.7,326,106,1,1,1,Cancer Risk
+28,Male,152,123,23.3,182,87,1,1,1,Healthy
+40,Female,187,203,41.8,321,65,0,0,1,Diabetes
+43,Female,134,94,23.9,259,95,1,1,0,Healthy
+35,Male,175,198,36.5,300,91,0,1,0,Diabetes
+53,Female,186,137,26.8,282,106,0,0,0,Heart Disease
+58,Male,139,94,24.3,343,85,0,1,1,Healthy
+82,Female,144,287,34.7,175,63,1,1,1,Diabetes
+72,Female,149,204,26.0,157,82,0,0,0,Kidney Disease
+55,Female,169,102,28.1,131,68,1,1,1,Cancer Risk
+23,Female,98,184,41.6,268,102,1,1,1,Diabetes
+54,Female,150,195,28.7,213,83,1,0,0,Diabetes
+54,Female,135,242,31.7,262,62,1,1,0,Diabetes
+72,Female,109,161,27.7,332,130,0,1,0,Healthy
+54,Male,145,273,28.9,140,87,0,1,0,Diabetes
+18,Male,117,110,28.2,141,69,0,0,1,Healthy
+64,Female,177,172,30.7,291,125,1,0,1,Heart Disease
+51,Male,118,165,26.3,180,96,1,0,0,Healthy
+52,Male,181,246,31.5,329,60,1,0,1,Diabetes
+60,Male,132,210,28.4,309,123,1,1,1,Diabetes
+21,Female,178,110,20.1,198,118,1,0,0,Healthy
+54,Female,103,237,35.7,259,124,0,1,1,Diabetes
+26,Female,140,151,28.4,262,63,1,1,0,Healthy
+23,Female,106,183,22.4,293,125,0,0,0,Healthy
+21,Female,164,135,32.9,281,99,0,0,0,Heart Disease
+41,Male,112,190,31.0,205,105,0,1,0,Diabetes
+74,Male,153,137,28.0,319,85,0,0,0,Heart Disease
+64,Female,151,154,26.6,180,59,0,0,1,Healthy
+71,Male,146,263,38.4,348,124,0,0,1,Diabetes
+79,Female,134,214,30.5,290,127,1,1,1,Diabetes
+76,Male,106,284,18.1,308,127,0,0,0,Healthy
+36,Male,172,198,18.6,342,68,1,1,0,Heart Disease
+74,Male,91,230,34.4,180,93,1,0,0,Diabetes
+80,Female,121,220,26.2,133,85,0,0,1,Healthy
+36,Male,178,249,35.2,126,94,0,1,1,Diabetes
+22,Male,136,239,18.3,156,112,0,1,1,Healthy
+83,Male,157,269,37.5,158,111,0,0,0,Diabetes
+64,Male,151,95,22.9,228,118,0,0,1,Healthy
+83,Female,137,293,18.9,320,127,1,1,1,Cancer Risk
+67,Male,137,152,27.6,265,66,1,1,0,Healthy
+83,Male,155,249,35.9,281,116,0,0,1,Diabetes
+20,Female,108,159,38.4,198,111,0,0,0,Healthy
+62,Female,168,112,24.7,325,76,0,0,0,Heart Disease
+53,Male,179,142,26.9,338,73,1,1,1,Heart Disease
+81,Male,121,244,37.3,255,120,0,0,0,Diabetes
+58,Male,141,249,27.6,141,84,1,0,0,Kidney Disease
+32,Male,122,236,40.0,167,86,1,0,0,Diabetes
+33,Male,114,199,38.9,201,129,0,0,0,Diabetes
+83,Female,189,233,34.9,319,94,0,0,0,Diabetes
+53,Female,190,137,28.0,329,112,1,0,1,Heart Disease
+84,Female,160,203,32.4,228,88,1,1,0,Diabetes
+57,Male,128,86,22.7,242,88,0,1,0,Healthy
+51,Female,126,246,28.0,288,64,1,1,0,Healthy
+53,Male,168,89,18.9,158,123,0,1,0,Healthy
+31,Male,98,118,33.5,256,59,1,0,1,Healthy
+45,Male,165,114,28.2,227,101,0,1,1,Healthy
+53,Male,116,252,25.3,154,89,0,1,0,Healthy
+51,Male,136,287,31.0,269,77,0,0,0,Diabetes
+74,Female,153,295,38.5,207,80,1,0,1,Diabetes
+46,Male,113,163,31.0,283,117,0,1,0,Healthy
+22,Female,160,85,28.3,272,72,0,0,0,Heart Disease
+70,Male,153,158,30.4,245,65,0,1,1,Heart Disease
+55,Female,159,277,34.5,177,105,0,0,0,Diabetes
+75,Male,155,168,32.1,277,108,0,0,0,Heart Disease
+23,Male,160,273,31.7,245,63,1,1,1,Diabetes
+64,Male,140,93,22.6,243,85,1,0,0,Healthy
+69,Male,174,265,34.8,176,86,1,1,1,Diabetes
+28,Male,149,131,34.6,333,76,0,1,1,Healthy
+35,Female,112,181,39.9,348,104,1,1,0,Diabetes
+78,Male,94,197,22.4,241,84,1,1,1,Cancer Risk
+64,Male,110,185,30.9,307,66,0,1,0,Diabetes
+53,Male,110,147,31.7,328,84,0,1,0,Healthy
+50,Male,172,240,22.6,217,119,0,1,1,Healthy
+24,Male,109,76,19.9,127,95,0,1,1,Healthy
+29,Female,95,105,19.4,264,56,0,1,0,Healthy
+53,Female,125,193,27.9,194,101,0,1,0,Healthy
+60,Male,182,126,23.4,298,87,0,0,1,Heart Disease
+50,Female,153,275,32.9,134,127,0,1,0,Diabetes
+51,Female,101,149,19.3,206,58,1,1,0,Healthy
+29,Female,181,275,20.9,253,101,1,1,0,Heart Disease
+41,Male,125,223,34.6,245,124,0,0,1,Diabetes
+41,Male,111,143,27.1,155,119,1,1,0,Healthy
+21,Female,157,266,26.9,203,62,1,1,1,Healthy
+29,Male,176,272,39.7,141,111,1,1,0,Diabetes
+19,Female,184,119,27.3,128,77,0,1,1,Healthy
+82,Male,93,197,18.2,307,113,0,0,0,Healthy
+59,Female,186,223,23.1,263,59,1,0,1,Heart Disease
+22,Female,135,181,26.2,171,120,0,1,1,Healthy
+33,Male,180,291,36.7,225,120,1,0,1,Diabetes
+34,Male,101,137,23.7,320,77,1,0,1,Healthy
+24,Female,98,220,20.9,251,85,1,1,1,Healthy
+27,Male,187,233,19.0,325,89,1,1,1,Heart Disease
+64,Male,110,205,41.0,302,92,1,1,0,Diabetes
+24,Female,105,82,29.5,255,57,1,0,0,Healthy
+83,Female,179,279,41.7,153,99,0,0,1,Diabetes
+41,Female,153,190,38.3,345,59,0,1,1,Diabetes
+72,Female,92,133,19.2,160,110,1,0,1,Cancer Risk
+18,Male,187,288,39.6,304,121,1,0,0,Diabetes
+64,Female,172,294,36.8,260,89,0,0,1,Diabetes
+65,Female,168,217,41.2,207,56,0,1,0,Diabetes
+20,Male,172,208,34.2,223,124,0,0,1,Diabetes
+74,Female,134,146,41.2,298,120,1,0,0,Healthy
+64,Male,97,241,29.3,123,84,0,1,0,Diabetes
+73,Female,137,248,37.1,231,56,0,0,1,Diabetes
+75,Female,172,146,28.1,159,80,1,0,0,Healthy
+26,Male,178,93,29.3,277,85,1,0,0,Heart Disease
+74,Male,150,180,29.5,281,90,1,0,1,Kidney Disease
+35,Female,117,222,39.4,220,67,1,0,0,Diabetes
+84,Male,188,140,28.5,214,58,0,1,0,Healthy
+51,Male,142,178,18.5,316,129,1,1,0,Healthy
+32,Female,155,256,39.4,147,77,1,0,0,Diabetes
+72,Male,161,126,30.4,228,100,1,0,1,Cancer Risk
+23,Male,168,209,38.6,152,90,0,0,1,Diabetes
+42,Female,176,216,35.4,267,89,0,1,1,Diabetes
+74,Male,118,137,28.5,187,67,1,1,1,Cancer Risk
+78,Male,160,105,18.1,270,61,0,0,0,Heart Disease
+42,Male,175,142,28.6,125,129,1,0,0,Healthy
+57,Male,157,172,40.1,239,86,0,0,0,Kidney Disease
+27,Male,140,124,39.4,142,128,1,1,0,Healthy
+37,Male,156,160,35.0,272,70,1,1,0,Heart Disease
+74,Female,134,220,24.8,195,61,0,0,0,Healthy
+57,Female,175,128,34.0,266,72,1,0,1,Heart Disease
+42,Male,103,208,23.8,341,63,1,0,1,Healthy
+40,Female,144,155,28.0,259,126,1,1,1,Healthy
+20,Male,97,154,36.1,150,74,0,0,0,Healthy
+27,Female,132,155,26.6,213,130,0,1,0,Healthy
+21,Female,181,144,36.0,346,60,0,1,0,Heart Disease
+19,Female,91,261,33.9,126,109,1,0,1,Diabetes
+38,Male,127,109,29.4,258,64,0,1,1,Healthy
+84,Female,98,190,30.9,268,107,1,1,0,Diabetes
+39,Male,166,79,31.0,190,89,0,1,0,Healthy
+23,Female,158,84,36.2,344,103,1,0,1,Heart Disease
+54,Female,151,164,41.0,298,111,0,0,1,Heart Disease
+54,Female,95,251,26.0,302,109,1,0,0,Healthy
+21,Female,167,256,24.2,240,80,1,1,1,Healthy
+31,Female,186,112,41.5,159,77,0,0,0,Healthy
+35,Female,124,238,37.1,194,80,1,1,0,Diabetes
+25,Male,107,281,29.5,266,57,1,0,1,Diabetes
+82,Male,109,293,39.6,284,124,1,0,0,Diabetes
+27,Male,100,137,29.8,350,105,0,1,1,Healthy
+61,Female,184,120,39.6,159,60,1,0,1,Cancer Risk
+30,Female,160,132,22.0,334,67,0,0,0,Heart Disease
+81,Male,138,151,22.3,196,107,0,0,0,Healthy
+85,Male,185,265,23.8,269,92,1,0,1,Heart Disease
+73,Male,147,288,24.6,278,84,1,1,1,Kidney Disease
+65,Female,125,163,22.5,333,109,0,0,1,Healthy
+40,Female,150,193,18.0,305,98,1,0,1,Healthy
+45,Male,180,167,35.6,345,97,1,0,0,Heart Disease
+69,Female,167,177,27.6,296,103,1,0,0,Heart Disease
+75,Male,109,192,26.8,266,59,0,1,1,Healthy
+80,Male,188,160,21.4,296,90,1,0,0,Heart Disease
+33,Male,111,176,35.2,284,103,1,1,0,Healthy
+62,Male,95,83,39.5,127,89,1,1,1,Cancer Risk
+68,Female,103,83,19.1,249,56,1,0,0,Healthy
+30,Female,114,92,41.2,302,118,0,0,0,Healthy
+41,Male,111,101,40.4,262,74,1,0,0,Healthy
+71,Male,142,109,25.5,174,84,0,0,0,Healthy
+82,Female,162,101,21.3,259,97,1,0,0,Heart Disease
+56,Female,128,147,22.5,209,99,0,1,1,Healthy
+28,Male,162,115,34.5,258,69,1,0,0,Heart Disease
+59,Male,172,183,37.6,189,106,1,0,0,Diabetes
+46,Male,94,240,29.0,321,101,1,1,0,Diabetes
+71,Male,160,106,36.3,329,123,0,1,0,Heart Disease
+60,Male,187,141,21.2,159,119,1,0,0,Healthy
+25,Female,129,171,22.8,348,60,1,1,1,Healthy
+66,Female,101,230,24.1,179,128,1,1,0,Healthy
+35,Male,95,105,28.0,330,76,0,1,0,Healthy
+48,Male,111,259,26.9,197,59,0,0,0,Healthy
+36,Male,149,177,18.7,281,82,0,1,1,Healthy
+37,Female,139,97,38.8,294,112,0,0,0,Healthy
+25,Male,159,287,29.6,289,91,0,0,1,Diabetes
+81,Male,97,214,35.5,235,77,1,0,1,Diabetes
+64,Female,183,210,20.0,199,125,0,0,1,Kidney Disease
+70,Male,106,242,38.2,301,95,1,0,1,Diabetes
+53,Female,179,97,32.5,125,117,1,0,1,Cancer Risk
+19,Female,121,88,22.8,213,121,1,0,0,Healthy
+20,Male,190,83,22.9,180,123,0,1,1,Healthy
+28,Male,115,239,22.3,239,62,0,0,1,Healthy
+81,Male,114,79,33.9,203,104,1,1,1,Cancer Risk
+78,Male,92,247,24.0,238,66,1,0,0,Healthy
+53,Male,91,292,39.5,151,107,1,0,0,Diabetes
+48,Female,113,134,23.8,299,62,0,1,1,Healthy
+77,Male,137,118,32.6,252,105,1,0,0,Healthy
+45,Female,95,220,22.2,141,93,0,0,1,Healthy
+30,Female,188,103,19.7,172,72,0,1,1,Healthy
+19,Male,176,257,36.4,266,58,0,0,1,Diabetes
+84,Male,182,260,35.4,188,58,0,0,0,Diabetes
+24,Male,120,89,22.1,304,74,0,0,1,Healthy
+47,Female,140,181,39.1,193,68,0,0,1,Diabetes
+82,Female,113,149,33.5,227,77,1,1,1,Cancer Risk
+83,Male,101,98,40.3,249,119,0,0,1,Healthy
+32,Female,189,154,25.7,125,72,1,0,0,Healthy
+19,Female,98,283,25.1,329,96,0,1,0,Healthy
+45,Male,92,169,30.0,161,81,0,0,1,Healthy
+32,Female,156,93,35.4,176,85,1,1,0,Healthy
+55,Female,92,243,39.3,350,121,0,0,1,Diabetes
+63,Female,101,217,40.0,179,67,0,0,1,Diabetes
+57,Female,135,277,38.7,338,63,0,0,0,Diabetes
+66,Female,181,190,20.6,141,86,1,1,0,Kidney Disease
+42,Female,158,144,24.4,152,104,0,1,1,Healthy
+47,Female,129,95,41.6,222,81,0,0,1,Healthy
+52,Male,105,250,19.7,189,110,1,0,1,Cancer Risk
+68,Male,104,272,25.4,128,106,1,1,1,Cancer Risk
+34,Male,151,226,27.8,208,112,0,0,0,Healthy
+73,Female,144,200,19.5,272,125,1,0,1,Kidney Disease
+24,Female,174,265,40.5,267,115,0,1,0,Diabetes
+26,Male,142,155,31.8,150,74,1,0,1,Healthy
+20,Male,122,213,27.0,235,90,0,1,1,Healthy
+69,Male,92,71,33.5,298,69,1,0,1,Cancer Risk
+60,Male,94,104,27.9,235,103,1,1,1,Cancer Risk
+66,Male,113,115,37.0,268,108,0,0,0,Healthy
+35,Male,111,177,21.8,257,82,1,0,1,Healthy
+61,Female,176,105,22.5,210,78,0,0,0,Healthy
+36,Female,144,79,25.0,199,57,0,1,1,Healthy
+33,Male,146,246,21.3,268,111,0,1,1,Healthy
+62,Male,101,292,20.3,199,127,1,1,1,Cancer Risk
+64,Male,149,244,34.6,289,105,1,1,1,Diabetes
+34,Male,153,268,21.3,146,125,1,1,1,Healthy
+18,Female,180,187,30.6,317,61,0,0,1,Diabetes
+75,Male,105,140,37.2,220,66,1,1,0,Healthy
+56,Female,130,92,30.8,314,75,0,1,1,Healthy
+68,Female,163,166,37.8,266,86,1,0,1,Heart Disease
+34,Female,94,102,22.4,191,105,1,0,1,Healthy
+45,Male,179,248,20.8,138,86,1,0,1,Healthy
+45,Female,171,91,27.7,188,97,1,0,0,Healthy
+71,Male,139,196,31.7,228,98,0,1,1,Diabetes
+64,Female,160,237,31.0,161,111,1,1,1,Diabetes
+33,Male,91,152,41.3,139,105,0,1,0,Healthy
+80,Female,132,79,29.5,185,92,0,1,1,Healthy
+63,Male,142,246,20.4,194,76,0,0,0,Kidney Disease
+22,Male,172,255,39.6,145,127,1,1,0,Diabetes
+83,Male,171,98,34.1,258,102,1,0,1,Heart Disease
+23,Male,172,219,30.0,157,110,1,1,0,Diabetes
+41,Female,136,280,23.3,259,76,0,0,0,Healthy
+83,Female,110,242,30.5,141,110,0,0,0,Diabetes
+51,Male,123,245,33.4,330,87,0,1,0,Diabetes
+47,Female,176,233,37.1,293,80,0,1,0,Diabetes
+24,Male,152,212,23.2,224,103,0,0,0,Healthy
+34,Male,161,157,42.0,180,77,0,0,1,Healthy
+72,Male,116,228,32.9,253,101,0,1,1,Diabetes
+33,Female,133,113,30.7,133,95,0,0,0,Healthy
+28,Female,119,163,23.6,154,107,0,1,1,Healthy
+56,Female,164,224,20.2,188,94,1,0,0,Kidney Disease
+18,Female,184,132,21.6,145,108,0,1,1,Healthy
+33,Female,95,109,29.9,289,121,1,0,0,Healthy
+31,Female,130,253,22.8,126,94,0,1,1,Healthy
+76,Female,186,246,26.1,321,109,0,1,1,Heart Disease
+51,Female,128,176,37.2,147,60,0,1,1,Healthy
+83,Female,146,220,31.0,179,126,1,0,1,Diabetes
+34,Female,143,281,26.6,179,89,1,0,1,Healthy
+21,Male,95,187,26.0,132,107,1,0,1,Healthy
+58,Male,127,287,36.3,269,66,1,0,0,Diabetes
+35,Male,174,224,20.3,142,126,0,0,0,Healthy
+81,Female,137,297,29.3,227,62,0,0,1,Diabetes
+24,Male,99,75,27.9,311,108,1,0,0,Healthy
+34,Female,109,151,32.7,317,84,0,0,1,Healthy
+49,Female,112,114,23.7,272,106,0,1,0,Healthy
+50,Male,156,265,32.0,210,103,0,0,0,Diabetes
+49,Male,101,292,18.5,216,62,0,1,0,Healthy
+59,Male,159,185,37.6,174,105,0,1,1,Diabetes
+29,Male,171,109,33.7,295,68,0,0,1,Heart Disease
+38,Male,118,204,27.9,295,124,0,0,0,Healthy
+80,Female,103,218,25.2,137,86,0,0,1,Healthy
+34,Male,143,251,39.7,127,121,0,1,0,Diabetes
+47,Male,149,201,20.8,338,56,1,0,0,Healthy
+25,Female,188,286,22.2,340,69,0,1,0,Heart Disease
+32,Female,172,87,25.0,349,83,1,0,1,Heart Disease
+53,Female,165,120,35.7,120,74,1,1,1,Cancer Risk
+38,Female,159,238,41.4,233,80,1,0,1,Diabetes
+76,Male,179,111,27.3,167,115,1,0,1,Cancer Risk
+81,Female,101,296,19.7,322,71,1,1,1,Cancer Risk
+47,Male,181,153,25.0,206,90,0,1,1,Healthy
+40,Male,159,208,24.3,202,109,0,0,1,Healthy
+33,Male,158,248,18.3,242,112,0,0,0,Heart Disease
+53,Female,151,292,36.9,146,79,0,0,1,Diabetes
+51,Male,95,173,35.9,169,96,0,1,1,Healthy
+69,Female,125,170,38.7,225,58,0,0,0,Healthy
+73,Male,150,100,30.7,218,108,1,0,0,Healthy
+74,Female,167,243,21.9,168,65,1,0,0,Kidney Disease
+36,Male,185,86,36.1,268,71,1,1,1,Heart Disease
+29,Male,140,244,28.6,238,90,1,1,0,Diabetes
+40,Male,129,283,36.7,308,78,0,0,0,Diabetes
+51,Female,162,251,22.9,347,112,0,1,0,Heart Disease
+41,Male,109,150,26.2,134,75,0,1,1,Healthy
+36,Male,169,83,20.4,128,63,0,0,0,Healthy
+41,Male,181,127,39.9,199,73,1,1,1,Healthy
+23,Male,124,140,38.5,234,122,1,1,0,Healthy
+24,Female,131,92,30.1,295,88,0,0,1,Healthy
+73,Female,141,283,32.3,325,79,1,1,1,Diabetes
+46,Female,124,223,41.4,182,71,0,1,0,Diabetes
+85,Male,148,246,32.2,122,61,1,1,1,Diabetes
+33,Female,129,130,22.8,305,128,0,1,0,Healthy
+77,Female,124,91,32.0,306,91,0,1,1,Healthy
+57,Male,129,258,25.5,169,60,0,1,1,Healthy
+53,Female,159,100,41.6,337,83,0,0,1,Heart Disease
+27,Male,120,208,25.0,290,120,1,0,0,Healthy
+82,Male,166,140,40.4,244,101,0,0,1,Heart Disease
+60,Male,137,90,22.3,172,102,1,0,0,Healthy
+20,Female,98,297,35.0,347,73,0,0,0,Diabetes
+54,Female,153,271,23.9,262,83,1,0,0,Heart Disease
+82,Female,173,261,20.5,126,76,0,0,1,Kidney Disease
+52,Female,143,153,23.4,228,128,1,1,1,Cancer Risk
+29,Female,101,219,19.0,143,107,0,1,0,Healthy
+62,Female,177,273,26.2,158,114,0,0,0,Kidney Disease
+35,Female,185,133,19.9,172,95,0,0,1,Healthy
+38,Female,111,205,36.4,266,91,0,1,1,Diabetes
+32,Female,183,200,28.4,329,121,1,1,0,Diabetes
+85,Female,98,117,41.2,276,66,0,1,0,Healthy
+73,Female,187,229,25.6,212,81,1,1,0,Kidney Disease
+34,Female,126,278,20.2,329,73,1,0,1,Healthy
+18,Male,176,89,38.2,333,108,1,1,1,Heart Disease
+49,Female,146,209,21.0,167,93,1,1,0,Healthy
+40,Female,121,110,30.6,125,102,0,1,1,Healthy
+40,Female,99,87,34.9,204,104,0,1,1,Healthy
+60,Female,145,225,26.0,333,130,0,0,1,Kidney Disease
+32,Male,183,254,32.2,338,93,1,1,0,Diabetes
+27,Female,131,111,22.6,250,95,0,0,0,Healthy
+44,Male,134,252,37.2,262,127,1,0,1,Diabetes
+58,Male,146,286,41.5,232,77,1,0,0,Diabetes
+55,Male,187,144,28.2,143,78,1,1,0,Healthy
+35,Female,135,117,19.3,338,119,1,1,0,Healthy
+53,Female,128,183,39.4,161,116,1,0,1,Diabetes
+38,Female,136,143,21.8,266,66,1,1,0,Healthy
+77,Male,96,128,23.2,178,69,0,1,1,Healthy
+50,Female,179,159,37.3,222,79,0,1,0,Healthy
+44,Male,92,295,29.9,269,103,1,1,0,Diabetes
+81,Male,98,194,41.2,281,93,1,1,1,Diabetes
+72,Female,127,231,18.4,248,129,0,1,0,Healthy
+28,Female,125,81,21.6,257,78,1,1,1,Healthy
+25,Male,130,97,36.9,201,121,1,1,1,Healthy
+56,Female,156,118,19.4,157,106,0,0,0,Healthy
+83,Male,145,157,30.1,210,129,1,1,0,Healthy
+45,Female,189,237,23.9,233,92,0,1,0,Healthy
+70,Male,165,100,31.4,245,67,0,1,0,Heart Disease
+27,Female,174,286,34.2,338,114,0,1,0,Diabetes
+39,Female,123,118,25.2,173,84,0,1,1,Healthy
+32,Male,169,186,29.2,140,91,1,1,0,Diabetes
+27,Female,176,284,35.4,253,108,1,1,1,Diabetes
+78,Male,113,154,37.4,345,108,1,1,0,Healthy
+50,Male,134,223,30.1,217,71,0,1,1,Diabetes
+79,Male,159,279,30.9,340,113,1,0,1,Diabetes
+33,Male,102,89,41.7,244,103,0,0,0,Healthy
+52,Male,98,248,21.0,310,115,0,1,1,Healthy
+27,Female,182,265,18.4,283,111,0,1,1,Heart Disease
+75,Male,171,84,35.9,165,85,0,1,0,Healthy
+51,Female,151,70,27.9,176,92,0,1,0,Healthy
+58,Male,104,234,30.1,306,74,1,1,0,Diabetes
+47,Male,101,296,24.8,166,89,0,0,0,Healthy
+22,Female,177,124,26.5,146,84,1,1,0,Healthy
+24,Male,183,291,28.1,136,68,1,1,1,Diabetes
+41,Female,91,275,18.2,330,108,1,0,0,Healthy
+24,Female,169,195,39.4,230,91,1,0,1,Diabetes
+43,Female,91,187,21.5,219,123,1,1,0,Healthy
+77,Male,143,117,20.4,312,123,0,1,0,Healthy
+35,Female,167,254,38.0,227,106,1,0,0,Diabetes
+74,Female,117,131,32.3,252,104,0,0,0,Healthy
+62,Male,145,176,30.4,256,77,0,1,1,Kidney Disease
+65,Male,170,229,24.0,240,92,1,1,1,Kidney Disease
+40,Female,183,169,30.9,337,93,1,0,0,Heart Disease
+55,Male,129,82,28.2,151,98,1,1,1,Cancer Risk
+60,Female,145,177,32.7,186,105,0,0,1,Kidney Disease
+26,Female,99,108,33.7,344,73,1,0,0,Healthy
+74,Male,183,196,29.0,208,125,1,0,1,Diabetes
+40,Male,98,220,18.5,134,106,0,1,1,Healthy
+18,Male,169,251,25.0,235,124,1,1,0,Healthy
+59,Male,181,98,25.3,175,81,1,1,1,Cancer Risk
+41,Male,92,200,32.7,318,129,0,0,0,Diabetes
+48,Female,113,205,29.1,190,61,0,0,0,Diabetes
+24,Male,99,243,36.8,343,65,1,0,1,Diabetes
+73,Male,134,220,24.6,183,73,1,1,0,Healthy
+76,Female,171,145,31.9,134,126,1,0,1,Cancer Risk
+22,Male,128,207,38.6,274,121,0,0,0,Diabetes
+65,Female,165,265,30.4,130,112,1,1,1,Diabetes
+24,Female,130,286,26.8,345,121,1,0,1,Healthy
+50,Male,145,186,24.9,148,63,0,0,1,Healthy
+63,Female,99,193,31.2,258,61,0,1,1,Diabetes
+73,Female,159,276,34.8,135,101,0,1,1,Diabetes
+76,Female,189,91,30.2,222,105,1,0,0,Healthy
+43,Female,119,134,38.3,261,85,1,1,0,Healthy
+61,Female,109,129,35.3,235,102,0,1,0,Healthy
+82,Female,150,242,33.3,183,102,0,1,1,Diabetes
+21,Male,93,217,20.6,340,59,1,1,0,Healthy
+21,Female,142,243,41.2,137,122,1,1,0,Diabetes
+24,Male,138,259,35.0,189,56,1,0,0,Diabetes
+21,Male,184,121,27.3,255,91,0,1,1,Heart Disease
+21,Female,156,98,34.5,313,118,0,0,0,Heart Disease
+61,Male,186,94,26.3,299,88,0,0,1,Heart Disease
+69,Male,147,299,30.6,271,72,0,1,0,Diabetes
+66,Female,178,155,27.7,287,76,0,1,1,Heart Disease
+57,Male,101,288,30.3,146,130,1,1,1,Diabetes
+34,Female,171,260,26.8,206,120,0,1,1,Healthy
+82,Female,111,110,30.0,251,100,0,1,1,Healthy
+84,Female,188,225,41.0,289,61,1,0,1,Diabetes
+46,Male,158,209,20.4,157,96,1,1,0,Healthy
+61,Male,93,139,26.8,248,124,0,0,1,Healthy
+19,Female,96,287,40.9,223,112,0,1,1,Diabetes
+30,Male,174,297,36.2,267,100,0,1,1,Diabetes
+62,Female,157,270,18.6,279,83,0,0,0,Heart Disease
+31,Male,157,288,41.5,290,102,1,0,0,Diabetes
+69,Female,99,143,37.5,256,73,0,0,0,Healthy
+82,Female,132,252,29.0,210,126,0,1,0,Diabetes
+49,Female,109,207,28.0,237,57,0,0,0,Healthy
+32,Male,92,295,36.4,334,114,1,0,0,Diabetes
+59,Female,178,228,33.6,196,120,1,1,1,Diabetes
+64,Female,140,163,21.6,335,73,0,0,0,Healthy
+67,Female,143,283,34.1,281,59,0,1,0,Diabetes
+27,Male,152,127,21.5,131,106,1,1,1,Healthy
+20,Male,131,250,35.8,315,87,1,1,1,Diabetes
+28,Female,167,110,23.8,242,56,1,1,1,Heart Disease
+45,Female,118,116,39.3,175,130,1,1,0,Healthy
+32,Male,98,242,33.3,320,112,1,1,0,Diabetes
+62,Female,179,296,24.8,194,117,0,0,1,Kidney Disease
+45,Male,175,130,32.9,236,72,1,0,1,Healthy
+64,Female,182,72,21.8,284,82,0,1,0,Heart Disease
+47,Male,128,202,30.5,303,62,0,0,0,Diabetes
+54,Female,147,250,27.1,206,129,1,0,1,Cancer Risk
+64,Male,90,256,34.3,143,83,0,0,0,Diabetes
+84,Female,129,125,38.9,339,71,1,0,1,Cancer Risk
+73,Male,132,167,26.8,220,86,0,0,0,Healthy
+58,Female,189,275,18.2,147,60,0,0,1,Kidney Disease
+29,Male,132,220,40.5,130,118,0,0,1,Diabetes
+35,Female,107,185,18.2,321,93,0,1,0,Healthy
+83,Male,187,225,34.4,151,97,0,1,0,Diabetes
+66,Male,134,133,25.8,236,98,1,1,0,Healthy
+40,Female,177,247,29.1,305,57,0,1,0,Diabetes
+57,Female,102,111,29.0,248,97,0,1,1,Healthy
+24,Female,101,174,23.2,218,110,0,1,1,Healthy
+46,Male,128,260,19.0,285,106,0,1,1,Healthy
+59,Male,150,223,22.4,268,127,1,1,1,Kidney Disease
+66,Male,134,267,21.9,347,118,0,0,1,Healthy
+56,Female,122,78,29.1,153,67,1,0,0,Healthy
+82,Female,122,188,26.0,124,58,1,0,1,Cancer Risk
+69,Male,95,111,39.3,165,107,1,0,1,Cancer Risk
+82,Male,100,83,21.4,265,111,1,0,0,Healthy
+46,Female,180,262,35.7,143,82,1,1,1,Diabetes
+39,Male,113,221,38.8,243,57,1,1,1,Diabetes
+43,Female,177,299,32.5,245,111,0,0,0,Diabetes
+29,Male,124,136,23.5,202,89,1,0,0,Healthy
+33,Male,116,179,41.4,240,106,1,0,0,Healthy
+27,Male,158,225,35.9,217,103,1,1,1,Diabetes
+70,Male,166,88,39.1,155,74,0,0,1,Healthy
+56,Male,182,265,26.2,271,93,1,1,1,Heart Disease
+45,Female,141,218,30.1,194,109,1,1,1,Diabetes
+51,Male,134,178,37.1,121,86,0,1,0,Healthy
+73,Female,116,92,18.1,316,81,0,1,1,Healthy
+57,Female,172,217,19.7,120,109,0,1,1,Kidney Disease
+56,Male,140,91,33.2,200,65,0,1,0,Healthy
+61,Female,102,226,26.0,146,59,1,1,1,Cancer Risk
+55,Female,112,243,37.5,132,65,1,0,1,Diabetes
+65,Female,175,139,40.1,158,110,0,1,0,Healthy
+76,Male,119,248,40.0,311,118,0,0,0,Diabetes
+41,Male,92,87,22.2,265,103,0,0,1,Healthy
+73,Female,90,71,26.2,166,77,1,1,0,Healthy
+79,Male,188,220,35.2,302,103,0,0,0,Diabetes
+85,Male,135,97,41.0,279,116,0,1,0,Healthy
+69,Male,162,269,31.0,227,121,0,0,1,Diabetes
+21,Female,100,167,29.5,283,56,0,0,0,Healthy
+63,Male,99,282,37.8,166,96,1,0,0,Diabetes
+79,Female,147,257,20.7,295,115,0,1,0,Kidney Disease
+38,Male,110,106,30.4,332,83,0,1,0,Healthy
+82,Male,151,228,32.1,260,93,0,1,1,Diabetes
+44,Male,171,124,27.5,189,100,0,0,0,Healthy
+27,Female,134,280,37.1,343,68,0,0,0,Diabetes
+29,Male,157,258,19.0,185,64,0,0,1,Healthy
+75,Female,99,232,34.5,263,63,0,1,0,Diabetes
+19,Female,160,112,23.1,127,119,0,1,1,Healthy
+76,Female,114,155,24.3,164,100,0,0,1,Healthy
+22,Male,100,241,24.6,170,72,0,1,0,Healthy
+80,Female,90,281,37.3,130,107,1,0,0,Diabetes
+27,Male,122,167,23.8,265,115,0,1,0,Healthy
+58,Male,188,188,23.2,292,94,1,0,0,Heart Disease
+69,Female,115,215,22.2,168,125,1,1,0,Healthy
+73,Female,180,201,41.4,341,56,1,0,1,Diabetes
+85,Female,164,177,29.5,335,81,0,0,0,Heart Disease
+68,Female,127,252,40.3,122,94,1,0,0,Diabetes
+35,Male,117,132,41.2,219,71,0,1,0,Healthy
+42,Male,158,278,41.1,149,95,0,0,0,Diabetes
+32,Female,127,112,39.4,158,110,0,0,0,Healthy
+31,Male,176,260,32.9,185,109,0,0,1,Diabetes
+82,Male,135,191,21.3,123,125,1,0,1,Cancer Risk
+45,Female,94,182,34.8,333,111,1,0,0,Diabetes
+69,Male,133,202,24.1,175,65,1,1,1,Cancer Risk
+44,Female,168,255,32.5,202,118,0,0,0,Diabetes
+71,Female,178,251,31.9,167,80,0,0,1,Diabetes
+73,Male,101,171,28.6,270,101,1,1,1,Cancer Risk
+78,Female,134,236,26.1,164,67,1,0,1,Cancer Risk
+31,Male,118,251,33.0,125,75,1,1,1,Diabetes
+37,Female,111,271,32.1,252,70,0,0,0,Diabetes
+79,Female,95,89,25.6,314,86,1,0,1,Cancer Risk
+71,Female,186,72,24.1,301,74,0,0,1,Heart Disease
+55,Female,104,190,27.7,331,71,0,0,0,Healthy
+29,Male,103,278,39.2,319,111,1,0,1,Diabetes
+31,Female,167,203,40.8,323,125,0,1,0,Diabetes
+18,Male,181,149,29.3,183,89,1,1,0,Healthy
+26,Female,120,214,19.5,243,78,0,1,1,Healthy
+40,Female,190,186,34.8,252,130,1,1,0,Diabetes
+64,Female,140,292,40.4,272,60,1,1,1,Diabetes
+82,Female,160,207,24.3,162,111,0,0,0,Kidney Disease
+56,Male,135,272,26.0,208,100,1,1,0,Healthy
+59,Male,144,223,22.0,137,68,0,1,1,Kidney Disease
+76,Female,94,287,20.5,263,107,0,0,1,Healthy
+39,Male,160,76,19.9,171,74,1,0,0,Healthy
+52,Female,157,143,37.8,179,84,1,0,0,Healthy
+50,Female,150,228,35.5,135,88,1,0,0,Diabetes
+84,Male,188,210,25.5,145,93,1,1,1,Kidney Disease
+19,Female,175,281,20.2,123,84,1,0,1,Healthy
+30,Female,136,107,23.6,331,63,0,0,1,Healthy
+22,Male,99,277,34.5,201,75,1,1,0,Diabetes
+28,Female,171,152,24.2,245,126,0,1,0,Heart Disease
+31,Female,104,110,22.7,184,55,1,0,1,Healthy
+31,Female,138,263,36.9,178,89,0,0,1,Diabetes
+85,Female,169,162,32.2,259,92,0,1,0,Heart Disease
+61,Female,128,204,32.7,173,105,1,0,0,Diabetes
+54,Female,146,215,36.2,288,112,0,1,0,Diabetes
+47,Female,131,153,27.1,142,109,1,1,0,Healthy
+23,Male,154,275,34.1,206,107,1,0,0,Diabetes
+63,Male,150,105,19.5,149,121,0,1,1,Healthy
+71,Male,115,117,21.2,302,94,0,1,1,Healthy
+58,Female,143,253,41.4,176,103,0,1,0,Diabetes
+30,Male,129,269,25.7,283,124,0,1,1,Healthy
+44,Male,117,112,23.5,268,128,0,0,1,Healthy
+73,Male,110,123,19.4,133,127,1,0,0,Healthy
+62,Male,105,148,37.9,182,88,1,1,0,Healthy
+27,Male,174,182,39.6,196,77,1,1,0,Diabetes
+22,Female,94,88,41.5,286,102,1,0,1,Healthy
+77,Male,122,179,26.6,328,126,1,0,0,Healthy
+25,Female,123,264,26.4,269,72,1,0,0,Healthy
+52,Male,138,270,29.9,185,118,0,0,0,Diabetes
+43,Male,129,218,29.8,328,116,0,1,1,Diabetes
+56,Female,125,111,38.7,232,129,0,1,0,Healthy
+75,Male,180,279,18.1,247,102,0,1,0,Heart Disease
+55,Male,169,179,22.9,308,83,0,1,0,Heart Disease
+61,Male,159,243,20.0,322,113,1,1,0,Heart Disease
+54,Female,111,136,19.7,215,93,0,0,0,Healthy
+64,Female,135,132,28.7,172,111,0,0,1,Healthy
+64,Female,174,291,37.4,176,65,0,0,1,Diabetes
+80,Male,146,282,32.0,224,89,0,1,0,Diabetes
+23,Female,95,126,25.8,259,103,1,0,0,Healthy
+29,Female,117,134,18.8,344,127,0,0,0,Healthy
+74,Male,91,86,23.0,135,61,0,0,0,Healthy
+23,Female,100,104,21.3,143,70,1,1,1,Healthy
+44,Female,174,293,24.5,254,107,1,1,1,Heart Disease
+76,Female,157,276,27.8,329,75,1,0,1,Heart Disease
+53,Male,93,264,21.2,194,119,0,0,0,Healthy
+65,Male,181,257,32.7,217,97,1,0,1,Diabetes
+43,Male,189,261,34.5,339,115,1,0,0,Diabetes

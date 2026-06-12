@@ -1,0 +1,32 @@
+<h1>
+Emergency Alerts
+</h1>
+
+<table border="1">
+
+<tr>
+
+<th>ID</th>
+<th>Patient</th>
+<th>Alert</th>
+<th>Severity</th>
+
+</tr>
+
+{% for a in alerts %}
+
+<tr>
+
+<td>{{a[0]}}</td>
+
+<td>{{a[1]}}</td>
+
+<td>{{a[6]}}</td>
+
+<td>{{a[7]}}</td>
+
+</tr>
+
+{% endfor %}
+
+</table>

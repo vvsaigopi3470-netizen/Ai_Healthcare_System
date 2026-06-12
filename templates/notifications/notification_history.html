@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>
+Notification History
+</h1>
+
+<table border="1">
+
+<tr>
+
+<th>ID</th>
+<th>Patient</th>
+<th>Channel</th>
+<th>Status</th>
+
+</tr>
+
+{% for n in notifications %}
+
+<tr>
+
+<td>{{n[0]}}</td>
+
+<td>{{n[1]}}</td>
+
+<td>{{n[2]}}</td>
+
+<td>{{n[5]}}</td>
+
+</tr>
+
+{% endfor %}
+
+</table>
+
+{% endblock %}

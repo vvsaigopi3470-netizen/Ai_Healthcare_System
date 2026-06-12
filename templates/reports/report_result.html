@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>
+Report Analysis
+</title>
+</head>
+
+<body>
+
+<h1>
+Report Analysis Result
+</h1>
+
+<h3>
+
+Risk Level:
+
+{{ risk }}
+
+</h3>
+
+<h3>
+Detected Issues:
+</h3>
+
+<ul>
+
+{% for issue in issues %}
+
+<li>
+
+{{ issue }}
+
+</li>
+
+{% endfor %}
+
+</ul>
+
+<h3>
+Extracted Text:
+</h3>
+
+<pre>
+
+{{ text }}
+
+</pre>
+
+</body>
+</html>
+
+{% endblock %}

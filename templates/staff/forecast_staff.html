@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+
+<h2>Staff Requirement Forecast</h2>
+
+<form method="POST">
+
+<input
+type="number"
+name="patients"
+placeholder="Expected Patients">
+
+<button>
+
+Predict
+
+</button>
+
+</form>
+
+{% if result %}
+
+<h3>
+
+Required Staff:
+{{ result }}
+
+</h3>
+
+{% endif %}
+
+{% endblock %}

@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Bed Dashboard</h1>
+
+<p>Total Beds: {{ total }}</p>
+
+<p>Available Beds: {{ available }}</p>
+
+<p>Occupied Beds: {{ occupied }}</p>
+
+<a href="/add_bed">
+Add Bed
+</a>
+
+<br><br>
+
+<a href="/assign_bed">
+Assign Bed
+</a>
+
+<br><br>
+
+<a href="/forecast_beds">
+Forecast Bed Demand
+</a>
+
+{% endblock %}
