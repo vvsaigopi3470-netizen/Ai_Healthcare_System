@@ -1,12 +1,3 @@
-# test_db.py
+from flask_mysqldb import MySQL
 
-import MySQLdb
-
-conn = MySQLdb.connect(
-    host="localhost",
-    user="root",
-    passwd="vvsg@1612",
-    db="healthcare_db"
-)
-
-print("Database Connected")
+mysql = MySQL()

@@ -2,6 +2,9 @@ from flask import Flask
 from flask import render_template
 
 from database.db import mysql
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # -----------------------------
 # Create App
@@ -11,14 +14,17 @@ app = Flask(__name__)
 
 app.secret_key = "healthcare_secret_key"
 
+import os
+
 # -----------------------------
 # MySQL Configuration
 # -----------------------------
 
-app.config['MYSQL_HOST'] = 'localhost'
-app.config['MYSQL_USER'] = 'root'
-app.config['MYSQL_PASSWORD'] = 'vvsg@1612'
-app.config['MYSQL_DB'] = 'healthcare_db'
+app.config['MYSQL_HOST'] = os.getenv('MYSQL_HOST')
+app.config['MYSQL_USER'] = os.getenv('MYSQL_USER')
+app.config['MYSQL_PASSWORD'] = os.getenv('MYSQL_PASSWORD')
+app.config['MYSQL_DB'] = os.getenv('MYSQL_DB')
+app.config['MYSQL_PORT'] = int(os.getenv('MYSQL_PORT', 3306))
 
 mysql.init_app(app)
 
