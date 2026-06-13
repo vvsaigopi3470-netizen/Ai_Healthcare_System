@@ -11,3 +11,4 @@ gunicorn==22.0.0
 python-dotenv==1.0.1
 reportlab==4.2.2
 matplotlib==3.9.0
+twilio==9.8.0
